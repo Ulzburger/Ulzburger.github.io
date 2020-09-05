@@ -3,75 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ulzburger.github.io/news/</loc>
+    <loc>https://ulzburger.github.io/hugo/news/</loc>
   </url>
   
   <url>
-    <loc>https://ulzburger.github.io/workshop/sewing_machines/</loc>
+    <loc>https://ulzburger.github.io/hugo/kiteplans/</loc>
   </url>
   
   <url>
-    <loc>https://ulzburger.github.io/kiteplans/</loc>
+    <loc>https://ulzburger.github.io/hugo/</loc>
   </url>
   
   <url>
-    <loc>https://ulzburger.github.io/workshop/computer_software/</loc>
+    <loc>https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline/</loc>
   </url>
   
   <url>
-    <loc>https://ulzburger.github.io/</loc>
+    <loc>https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline_mini/</loc>
   </url>
   
   <url>
-    <loc>https://ulzburger.github.io/workshop/computer_hardware/</loc>
+    <loc>https://ulzburger.github.io/hugo/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ulzburger.github.io/materials/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/building_techniques/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/workshop/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/kiteplans/kiteplan_return/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/kiteplans/kiteplan_shift/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/kiteplans/kiteplan_escape/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ulzburger.github.io/tags/</loc>
+    <loc>https://ulzburger.github.io/hugo/tags/</loc>
   </url>
   
 </urlset>

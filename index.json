@@ -1,125 +1,48 @@
 [
 {
-	"uri": "https://ulzburger.github.io/news/",
+	"uri": "https://ulzburger.github.io/hugo/news/",
 	"title": "Aktuelles",
 	"tags": [],
 	"description": "",
-	"content": "2020, November Start einer Webseite rund um das Thema Trickdrachen.\nFolgende Themen sollen hier präsentiert werden:\n Eigene Baupläne zu Trickdrachen Das Bauen von Trickdrachen  "
+	"content": "2020, November Start einer Webseite rund um das Thema Trickdrachen.\nFolgende Themen sollen hier in Zukunft präsentiert werden:\n Meine Baupläne zu Trickdrachen Dokumentationen zum Bauen von Trickdrachen  "
 },
 {
-	"uri": "https://ulzburger.github.io/workshop/sewing_machines/",
-	"title": "Nähmaschinen",
-	"tags": [],
-	"description": "",
-	"content": "Hier werden Tipps rund um die Nähmaschinen zur Verfügung gestellt.\nDiese Seite ist noch in Arbeit.\n\r"
-},
-{
-	"uri": "https://ulzburger.github.io/kiteplans/",
+	"uri": "https://ulzburger.github.io/hugo/kiteplans/",
 	"title": "Baupläne",
 	"tags": [],
 	"description": "",
-	"content": "Hier werden die folgenden Baupläne zur Verfügung gestellt:\n\rEnd Of Line (EOL) - STD, LW\r\r\rEnd Of Line (EOL) - Mini\r\r\rReturn - STD, LW\r\r\rReturn - Mini\r\r\rReturn - Maxi\r\r\rShift - STD\r\r\rEscape - STD, LW\r\r\r"
+	"content": "Hier werden die folgenden Baupläne zur Verfügung gestellt:\n\rEnd Of Line - STD, LW\r\r\rEnd Of Line - Mini\r\r\r"
 },
 {
-	"uri": "https://ulzburger.github.io/workshop/computer_software/",
-	"title": "Software",
-	"tags": [],
-	"description": "",
-	"content": "Hier werden Tipps zur Computer-Software zur Verfügung gestellt.\nDiese Seite ist noch in Arbeit.\n\r"
-},
-{
-	"uri": "https://ulzburger.github.io/",
+	"uri": "https://ulzburger.github.io/hugo/",
 	"title": "Start",
 	"tags": [],
 	"description": "",
-	"content": "Willkommen bei Ulzburger Kites! Auf diesen Seiten gibt es Informationen rund um das Bauen von Trickdrachen. Ich erkläre hier nicht was Trickdrachen sind und wie man sie fliegt. Ich gehe davon aus, dass der Besucher dieser Seite damit schon vertraut ist. Wer Trickdrachen selbst bauen möchte, der soll hier irgendwann möglichst viel zu diesem schönen Hobby lernen können. Alle meine Anleitungen und Beschreibungen hierzu stellen meine persönlichen Präferenzen dar. Es gibt stets mehrere gute und sogar bessere Lösungen als die hier vorgestellten. Ich wünsche allen viel Spaß beim Besuch dieser Seite.\nWer oder was ist Ulzburger Kites? Mein Name ist Birger Garbe und ich wohne in Ulzburg, einem kleinen Ort nördlich von Hamburg. Im deutschen Drachenforum (https://www.drachenforum.net/) verwende ich den User Namen Ulzburger. Ich konstruiere, baue und fliege gerne Lenkdrachen. Wenn ich die Segel für diese Drachen nähe, dann bekommen diese ein Label \u0026ldquo;Sail made by Ulzburger Kites\u0026rdquo;.\nWarum gibt es diese Seite? Ich wollte ich die Ergebnisse meines Hobbies ein wenig aufbereiten und hier teilen.\nDie meisten Baupläne, die hier vorgestellt werden, sind auch auf der Webseite von Carlo de Rond, in der Trickdrachen-Szene bekannt als KarelOh, zu finden (https://www.kareloh.com/). Dort gibt es alle Informationen für ein internationales Publikum auf Englisch, ich werde mich hier im Wesentlichen auf Deutsch beschränken. Somit sollten sich beide Webseiten in diesem Punkt ergänzen. Carlo hat neben vielen offenen Bauplänen auch die Fotos von den Nachbauten gesammelt.\nHier geht\u0026rsquo;s weiter: \rAktuelles\r\r\rBaupläne\r\r\rBaumaterialien\r\r\rBautechniken\r\r\rWerkstatt\r\r\r"
+	"content": "Willkommen bei Ulzburger Kites! Auf diesen Seiten gibt es Informationen rund um das Bauen von Trickdrachen. Ich erkläre hier nicht was Trickdrachen sind und wie man sie fliegt. Ich gehe davon aus, dass der Besucher dieser Seite damit schon vertraut ist. Wer Trickdrachen selbst bauen möchte, der soll hier irgendwann möglichst viel zu diesem schönen Hobby lernen können. Alle meine Anleitungen und Beschreibungen hierzu stellen meine persönlichen Präferenzen dar. Es gibt stets mehrere gute und sogar bessere Lösungen als die hier vorgestellten. Ich wünsche allen viel Spaß beim Besuch dieser Seite.\nWer oder was ist Ulzburger Kites? Mein Name ist Birger Garbe und ich wohne in Ulzburg, einem kleinen Ort nördlich von Hamburg. Im deutschen Drachenforum (https://www.drachenforum.net/) verwende ich den User Namen Ulzburger. Ich konstruiere, baue und fliege gerne Lenkdrachen. Wenn ich die Segel für diese Drachen nähe, dann bekommen diese ein Label \u0026ldquo;Sail made by Ulzburger Kites\u0026rdquo;.\nWarum gibt es diese Seite? Ich wollte ich die Ergebnisse meines Hobbies ein wenig aufbereiten und hier teilen.\nDie meisten Baupläne, die hier vorgestellt werden, sind auch auf der Webseite von Carlo de Rond, in der Trickdrachen-Szene bekannt als KarelOh, zu finden (https://www.kareloh.com/). Carlo hat neben vielen offenen Bauplänen auch die Fotos der Nachbauten gesammelt. Während KarelOh sich an ein internationales Publikum wendet, werde ich mich hier im Wesentlichen auf Veröffentlichungen auf Deutsch beschränken. Somit sollten sich beide Webseiten in diesem Punkt ergänzen.\nHier geht\u0026rsquo;s weiter: \rAktuelles\r\r\rBaupläne\r\r\r"
 },
 {
-	"uri": "https://ulzburger.github.io/workshop/computer_hardware/",
-	"title": "Hardware",
-	"tags": [],
-	"description": "",
-	"content": "Hier werden Tipps zur Computer-Hardware zur Verfügung gestellt.\nDiese Seite ist noch in Arbeit.\n\r"
-},
-{
-	"uri": "https://ulzburger.github.io/materials/",
-	"title": "Baumaterialien",
-	"tags": [],
-	"description": "",
-	"content": "Hier werden Tipps zum Baumaterial zur Verfügung gestellt.\nDiese Seite ist noch in Arbeit.\n\r"
-},
-{
-	"uri": "https://ulzburger.github.io/building_techniques/",
-	"title": "Bautechniken",
-	"tags": [],
-	"description": "",
-	"content": "Hier werden Tipps zu Bautechniken zur Verfügung gestellt.\nDiese Seite ist noch in Arbeit.\n\r"
-},
-{
-	"uri": "https://ulzburger.github.io/workshop/",
-	"title": "Werkstatt",
-	"tags": [],
-	"description": "",
-	"content": "Hier werden Infos zum Thema Drachenwerkstatt zur Verfügung gestellt.\n\rNähmaschinen\r\r\rSoftware\r\r\rHardware\r\r\r"
-},
-{
-	"uri": "https://ulzburger.github.io/kiteplans/kiteplan_endofline/",
-	"title": "End Of Line (EOL) - STD, LW",
+	"uri": "https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline/",
+	"title": "End Of Line - STD, LW",
 	"tags": [],
 	"description": "",
 	"content": "Der End of Line oder EOL ist der erste von mir entworfene Trickdrachen. Der Baulplan zu diesem Kite wurde zunächst nicht veröffentlicht. Wegen der Befürchtung, dass die Qualität der Nachbauten dem Ruf dieses Entwurfs schaden könnte, wurde dieser Kite zunächst von mir kommerziell gebaut und vertrieben. Aufgrund der positiven Erfahrungen mit der Veröffentlichung meines zweiten Entwurfs - dem Return - als offenen Bauplan, habe ich den Bauplan zum EOL dann zwei Jahre später veröffentlicht.\nHistorie 2015 - Entwicklung im Sommer, Vorstellung im Herbst auf dem Trickfliegertreffen in St. Peter Ording und auf dem Drachenfest in Wittenberg\n2016 - Vorstellung zum Jahresanfang als kommerzielles Modell\n2017 - Vorstellung zum Jahresende als offener Bauplan\nPaten Vortex, Maestro II, Magnet\nAbmessungen Standhöhe: ca. 95 cm\nSpannweite: ca. 230 cm\nDetails zum Standard (STD) Kiel: SkyShark P200, 800 mm + FSD-Nocke mit Messinggewicht\nObere Spreize: 5mm Carbon, 495 mm\nUntere Spreize: Skyshark 5PT, 700 mm mit einen SkyShark Gummikreuz\nLeitkante: 6mm gezogenes Carbon, 1450 mm\nStandoffs: 3mm Carbon Vollstab, 250 mm und 260 mm (Abstand zwischen Segel und Spreize)\nHeckgewicht: Messingstab, Durchmesser 6mm, Länge 80mm, ca. 20 gr\nWaage: oben 520 mm, außen 480 mm, innen 570 mm\nDetails zum Leichtwind (LW) Kiel: SkyShark P200, 800mm + FSD-Nocke mit Messinggewicht (Durchmesser 6 mm, Länge 80 mm)\nObere Spreize: 4mm Carbon, 495 mm\nUntere Spreize: Skyshark 3PT, 700 mm mit einen SkyShark Gummikreuz\nLeitkante: 5mm gezogenes Carbon, 1450 mm\nStandoffs: 3mm Carbon Vollstab, 250 mm and 260 mm (Abstand zwischen Segel und Spreize)\nHeckgewicht: ca. 20 gr\nWaage: oben 480 mm, außen 440 mm, innen 570 mm\nFotos Dokumente Bauplan, Schablonen und der Flyer aus der kommerziellen Phase.\n\r\rDownloads\r\r\rEOL-2015-2016-Flyer.pdf\r\r(2780 ko)\r\r\rEOL-2015-Panels.pdf\r\r(18 ko)\r\r\rEOL-2015-Plan.pdf\r\r(46 ko)\r\r\r\rLinks  Thread auf Drachenforum.net Review auf Kiteclique.com  Videos             "
 },
 {
-	"uri": "https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/",
-	"title": "End Of Line (EOL) - Mini",
+	"uri": "https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline_mini/",
+	"title": "End Of Line - Mini",
 	"tags": [],
 	"description": "",
 	"content": "Zwei Jahre nach dem Bau der ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.\nJahr der Veröffentlichung 2016\nPate EOL\nAbmessungen Höhe: ca. 75 cm\nSpannweite: ca. 190 cm\nDetails Kiel: 5 mm Carbon, 750 mm\nObere Spreize: 5 mm Carbon, 425 mmm\nUntere Spreize: einteilig, 5 mm Carbon, 1210 mm\nLeitkante: 5 mm Carbon, 1250 mmm\nStandoffs: 3 mm Carbon Vollstab, 230 mm (Abstand zwischen Segel und Spreize)\nHeckgewicht: 6 mm-Gewindemuffe, ca. 10 gr\nWaage: oben 420 mm, außen 380 mm, innen 490 mm\nFotos Dokumente Bauplan und Schablonen.\n\r\rDownloads\r\r\rEOL-Mini-2016-Panels.pdf\r\r(14 ko)\r\r\rEOL-Mini-2016-Plan.pdf\r\r(480 ko)\r\r\r\r"
 },
 {
-	"uri": "https://ulzburger.github.io/kiteplans/kiteplan_return/",
-	"title": "Return - STD, LW",
-	"tags": [],
-	"description": "",
-	"content": "\u0026hellip; Text \u0026hellip;\nJahr der Veröffentlichung 2017\nPaten EOL, Proof Of Concept (Vorläufer vom Escape), Atomic (Komplettumbau!)\nAbmessungen Höhe: ca. 95 cm\nSpannweite: ca. 225 cm\nDetails zum Standard (STD) Kiel: SkyShark P200, 800 mm + FSD-Nocke mit Messinggewicht\nObere Spreize: 5mm Carbon, 495 mm\nUntere Spreize: Skyshark 5PT, 660 mm mit einen SkyShark Gummikreuz\nLeitkante (Variante P200): SkyShark P200, 1450mm (oben ganzer Stab, unten gekürzter Stab)\nLeitkante (Variante 5PT): SkyShark 5PT, 1450mm (oben ganzer Stab, unten gekürzter Stab)\nStandoffs: 3mm Carbon Vollstab, 270 mm (Abstand zwischen Segel und Spreize)\nHeckgewicht: Messingstab, Durchmesser 6mm, Länge 70mm, ca. 17 gr\nWaage (original): oben 500 mm, außen 470 mm, innen 560 mm\nWaage (update): oben 480 mm, außen 480 mm, innen 530 mm\nDetails zum Leichtwind (LW) Kiel: SkyShark P100, 800 mm + FSD-Nocke mit Messinggewicht\nObere Spreize: 5mm Carbon, 495 mm\nUntere Spreize: Skyshark 3PT, 660 mm mit einen SkyShark Gummikreuz\nLeitkante (Variante P100): SkyShark P100, 1450mm (oben ganzer Stab, unten gekürzter Stab)\nLeitkante (Variante 3PT): SkyShark 3PT, 1450mm (oben ganzer Stab, unten gekürzter Stab)\nStandoffs: 3mm Carbon Vollstab, 275 mm (Abstand zwischen Segel und Spreize)\nHeckgewicht: Messingstab, Durchmesser 6mm, Länge 70mm, ca. 17 gr\nWaage (original): oben 500 mm, außen 470 mm, innen 560 mm\nWaage (update): oben 480 mm, außen 480 mm, innen 530 mm\nFotos Dokumente Bauplan, Schablonen und weitere Dateien.\n\r\rDownloads\r\r\rReturn-2017-Panels-80x100.pdf\r\r(13 ko)\r\r\rReturn-2017-Parameter.pdf\r\r(24 ko)\r\r\rReturn-2017-Plan.pdf\r\r(37 ko)\r\r\r\rVideo   "
-},
-{
-	"uri": "https://ulzburger.github.io/kiteplans/kiteplan_return_mini/",
-	"title": "Return - Mini",
-	"tags": [],
-	"description": "",
-	"content": "\u0026hellip; Text \u0026hellip;\nJahr der Veröffentlichung 2020\nPate Return\nAbmessungen Höhe: ca. 75 cm\nSpannweite: ca. 190 cm\nDetails Kiel: 5 mm Carbon, 750 mm\nObere Spreize: 5 mm Carbon, 425 mmm\nUntere Spreize: einteilig, 5 mm Carbon, 1210 mm\nLeitkante: 5 mm Carbon, 1250 mmm\nStandoffs: 3 mm Carbon Vollstab, 230 mm (Abstand zwischen Segel und Spreize)\nHeckgewicht: 6 mm-Gewindemuffe, ca. 10 gr\nWaage: oben 420 mm, außen 380 mm, innen 490 mm\nFotos Dokumente Bauplan, Schablonen und weitere Dateien.\n\r\rDownloads\r\r\rReturn-Mini-2020-Panels-80x100.pdf\r\r(13 ko)\r\r\rReturn-Mini-2020-Parameter.pdf\r\r(24 ko)\r\r\rReturn-Mini-2020-Plan.pdf\r\r(37 ko)\r\r\r\r"
-},
-{
-	"uri": "https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/",
-	"title": "Return - Maxi",
-	"tags": [],
-	"description": "",
-	"content": "Hier wird ein Bauplan zur Verfügung gestellt \u0026hellip;\nDokumente Bauplan, Schablonen und weitere Dateien.\n\r\rDownloads\r\r\rReturn-Maxi-2020-Panels-80x100 (1).pdf\r\r(13 ko)\r\r\rReturn-Maxi-2020-Panels-80x100 (2).pdf\r\r(12 ko)\r\r\rReturn-Maxi-2020-Panels-80x100 (compact).pdf\r\r(14 ko)\r\r\rReturn-Maxi-2020-Parameter.pdf\r\r(24 ko)\r\r\rReturn-Maxi-2020-Plan-Printversion.pdf\r\r(38 ko)\r\r\rReturn-Maxi-2020-Plan.pdf\r\r(38 ko)\r\r\rReturn-Maxi-2020-Reinforcement.pdf\r\r(10 ko)\r\r\r\r"
-},
-{
-	"uri": "https://ulzburger.github.io/kiteplans/kiteplan_shift/",
-	"title": "Shift - STD",
-	"tags": [],
-	"description": "",
-	"content": "Hier wird ein Bauplan zur Verfügung gestellt \u0026hellip;\nDokumente Bauplan, Schablonen und weitere Dateien.\n\r\rDownloads\r\r\r\r"
-},
-{
-	"uri": "https://ulzburger.github.io/kiteplans/kiteplan_escape/",
-	"title": "Escape - STD, LW",
-	"tags": [],
-	"description": "",
-	"content": "Hier wird ein Bauplan zur Verfügung gestellt \u0026hellip;\nDokumente Bauplan, Schablonen und weitere Dateien.\n\r\rDownloads\r\r\rESC-2020-Colorizer.svg\r\r(63 ko)\r\r\rESC-2020-Colors.svg\r\r(479 ko)\r\r\rESC-2020-Panels-80x100.pdf\r\r(63 ko)\r\r\rESC-2020-Parameter.pdf\r\r(23 ko)\r\r\rESC-2020-Plan.pdf\r\r(45 ko)\r\r\r\r"
-},
-{
-	"uri": "https://ulzburger.github.io/categories/",
+	"uri": "https://ulzburger.github.io/hugo/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://ulzburger.github.io/tags/",
+	"uri": "https://ulzburger.github.io/hugo/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

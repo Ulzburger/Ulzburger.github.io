@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Start on Ulzburger Kites</title>
-    <link>https://ulzburger.github.io/</link>
+    <link>https://ulzburger.github.io/hugo/</link>
     <description>Recent content in Start on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://ulzburger.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ulzburger.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>End Of Line (EOL) - STD, LW</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</link>
+      <title>End Of Line - STD, LW</title>
+      <link>https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</guid>
+      <guid>https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline/</guid>
       <description>Der End of Line oder EOL ist der erste von mir entworfene Trickdrachen. Der Baulplan zu diesem Kite wurde zunächst nicht veröffentlicht. Wegen der Befürchtung, dass die Qualität der Nachbauten dem Ruf dieses Entwurfs schaden könnte, wurde dieser Kite zunächst von mir kommerziell gebaut und vertrieben. Aufgrund der positiven Erfahrungen mit der Veröffentlichung meines zweiten Entwurfs - dem Return - als offenen Bauplan, habe ich den Bauplan zum EOL dann zwei Jahre später veröffentlicht.</description>
     </item>
     
     <item>
-      <title>End Of Line (EOL) - Mini</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</link>
+      <title>End Of Line - Mini</title>
+      <link>https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</guid>
+      <guid>https://ulzburger.github.io/hugo/kiteplans/kiteplan_endofline_mini/</guid>
       <description>Zwei Jahre nach dem Bau der ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.
 Jahr der Veröffentlichung 2016
 Pate EOL
@@ -34,77 +34,6 @@ Details Kiel: 5 mm Carbon, 750 mm
 Obere Spreize: 5 mm Carbon, 425 mmm
 Untere Spreize: einteilig, 5 mm Carbon, 1210 mm
 Leitkante: 5 mm Carbon, 1250 mmm</description>
-    </item>
-    
-    <item>
-      <title>Return - STD, LW</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return/</guid>
-      <description>&amp;hellip; Text &amp;hellip;
-Jahr der Veröffentlichung 2017
-Paten EOL, Proof Of Concept (Vorläufer vom Escape), Atomic (Komplettumbau!)
-Abmessungen Höhe: ca. 95 cm
-Spannweite: ca. 225 cm
-Details zum Standard (STD) Kiel: SkyShark P200, 800 mm + FSD-Nocke mit Messinggewicht
-Obere Spreize: 5mm Carbon, 495 mm
-Untere Spreize: Skyshark 5PT, 660 mm mit einen SkyShark Gummikreuz
-Leitkante (Variante P200): SkyShark P200, 1450mm (oben ganzer Stab, unten gekürzter Stab)
-Leitkante (Variante 5PT): SkyShark 5PT, 1450mm (oben ganzer Stab, unten gekürzter Stab)</description>
-    </item>
-    
-    <item>
-      <title>Return - Mini</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</guid>
-      <description>&amp;hellip; Text &amp;hellip;
-Jahr der Veröffentlichung 2020
-Pate Return
-Abmessungen Höhe: ca. 75 cm
-Spannweite: ca. 190 cm
-Details Kiel: 5 mm Carbon, 750 mm
-Obere Spreize: 5 mm Carbon, 425 mmm
-Untere Spreize: einteilig, 5 mm Carbon, 1210 mm
-Leitkante: 5 mm Carbon, 1250 mmm
-Standoffs: 3 mm Carbon Vollstab, 230 mm (Abstand zwischen Segel und Spreize)
-Heckgewicht: 6 mm-Gewindemuffe, ca. 10 gr
-Waage: oben 420 mm, außen 380 mm, innen 490 mm</description>
-    </item>
-    
-    <item>
-      <title>Return - Maxi</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</guid>
-      <description>Hier wird ein Bauplan zur Verfügung gestellt &amp;hellip;
-Dokumente Bauplan, Schablonen und weitere Dateien.
-DownloadsReturn-Maxi-2020-Panels-80x100 (1).pdf(13 ko)Return-Maxi-2020-Panels-80x100 (2).pdf(12 ko)Return-Maxi-2020-Panels-80x100 (compact).pdf(14 ko)Return-Maxi-2020-Parameter.pdf(24 ko)Return-Maxi-2020-Plan-Printversion.pdf(38 ko)Return-Maxi-2020-Plan.pdf(38 ko)Return-Maxi-2020-Reinforcement.pdf(10 ko)</description>
-    </item>
-    
-    <item>
-      <title>Shift - STD</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_shift/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_shift/</guid>
-      <description>Hier wird ein Bauplan zur Verfügung gestellt &amp;hellip;
-Dokumente Bauplan, Schablonen und weitere Dateien.
-Downloads</description>
-    </item>
-    
-    <item>
-      <title>Escape - STD, LW</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_escape/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_escape/</guid>
-      <description>Hier wird ein Bauplan zur Verfügung gestellt &amp;hellip;
-Dokumente Bauplan, Schablonen und weitere Dateien.
-DownloadsESC-2020-Colorizer.svg(63 ko)ESC-2020-Colors.svg(479 ko)ESC-2020-Panels-80x100.pdf(63 ko)ESC-2020-Parameter.pdf(23 ko)ESC-2020-Plan.pdf(45 ko)</description>
     </item>
     
   </channel>
