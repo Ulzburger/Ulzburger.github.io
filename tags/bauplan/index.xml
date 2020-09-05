@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bauplan on Ulzburger Kites</title>
+    <link>https://ulzburger.github.io/tags/bauplan/</link>
+    <description>Recent content in Bauplan on Ulzburger Kites</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://ulzburger.github.io/tags/bauplan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>End Of Line - STD, LW</title>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</guid>
+      <description>Der End of Line oder EOL ist der erste von mir entworfene Trickdrachen. Der Baulplan zu diesem Kite wurde zunächst nicht veröffentlicht. Wegen der Befürchtung, dass die Qualität der Nachbauten dem Ruf dieses Entwurfs schaden könnte, wurde dieser Kite zunächst von mir kommerziell gebaut und vertrieben. Aufgrund der positiven Erfahrungen mit der Veröffentlichung meines zweiten Entwurfs - dem Return - als offenen Bauplan, habe ich den Bauplan zum EOL dann zwei Jahre später veröffentlicht.</description>
+    </item>
+    
+    <item>
+      <title>End Of Line - Mini</title>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</guid>
+      <description>Zwei Jahre nach dem Bau der ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.
+Jahr der Veröffentlichung 2016
+Pate EOL
+Abmessungen Höhe: ca. 75 cm
+Spannweite: ca. 190 cm
+Details Kiel: 5 mm Carbon, 750 mm
+Obere Spreize: 5 mm Carbon, 425 mmm
+Untere Spreize: einteilig, 5 mm Carbon, 1210 mm
+Leitkante: 5 mm Carbon, 1250 mmm</description>
+    </item>
+    
+  </channel>
+</rss>
