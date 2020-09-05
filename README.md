@@ -1,6 +1,3 @@
-# first-test
-first test
+# Ulzburger Kites
 
-_second test_
-
-## third test
+Test zum Hosten einer statischen Webseite.
