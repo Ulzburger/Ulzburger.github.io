@@ -457,13 +457,12 @@ h2, h3, h4, h5, h6 {
     font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     text-rendering: optimizeLegibility;
     color: #5e5e5e;
-    font-weight: 400;
+    font-weight: 200;
     letter-spacing: -1px;
 }
 h1 {
-    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     text-align: center;
-    text-transform: uppercase;
     color: #222;
     font-weight: 200;
 }
@@ -490,7 +489,7 @@ div.notices p {
     font-size: 1rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
-    color: #666;
+    color: #000;
 }
 div.notices p:first-child:before {
     position: absolute;
@@ -522,8 +521,8 @@ div.notices.warning p:first-child:after {
     content: 'Warning';
 }
 div.notices.note p {
-    border-top: 30px solid #6AB0DE;
-    background: #E7F2FA;
+    border-top: 30px solid #666;
+    background: #f4f4f4;
 }
 div.notices.note p:first-child:after {
     content: 'Note';

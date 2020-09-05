@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>Stammbaum der Baupläne</title>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_family_tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_family_tree/</guid>
+      <description>Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kites hat igendeinen Vorgänger, ich nenne diese im folgenden Paten. Diese Paten haben ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge. Ich bezeichnes es als den Stammbaum meiner Entwürfe.
+Zu jeder Linie gibt es nun noch ein wenig zu erläutern&amp;hellip; hier kommt noch was &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>End Of Line - STD, LW</title>
       <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</guid>
-      <description>Zwei Jahre nach dem Bau der ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.
+      <description>Zwei Jahre nach dem Bau des ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.
 Jahr der Veröffentlichung 2016
 Pate EOL
 Abmessungen Höhe: ca. 75 cm
@@ -34,6 +44,24 @@ Details Kiel: 5 mm Carbon, 750 mm
 Obere Spreize: 5 mm Carbon, 425 mmm
 Untere Spreize: einteilig, 5 mm Carbon, 1210 mm
 Leitkante: 5 mm Carbon, 1250 mmm</description>
+    </item>
+    
+    <item>
+      <title>Return - STD, LW, SUL</title>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_return/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return/</guid>
+      <description>Meine Hauptmotivation war es einen Drachen zu erstellen, der weitgehend durch den Kiteplan Generator beschrieben wird. Natürlich muss man sich vor einem solchen Entwurf ein paar grundlegende Gedanken zur Geometrie eines neuen Drachens machen: Größe, Streckung, Bestabung etc. Andererseits greift man auch gerne auf Bewährtes zurück. In meinem Fall waren es Merkmale des End Of Line. Die Leitkantenlänge von 140cm für die Stabtasche und 145cm für den Leitkantenstab, Kielstablänge von 80cm und die obere Spreize wurden vom EOL übernommen.</description>
+    </item>
+    
+    <item>
+      <title>Return - Mini</title>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</guid>
+      <description>Der Return Mini ist eine Verkleinerung des Returns auf ca. 86%, genauer um den Faktor 6/7. Während die Länge der Leitkante am Segel beim Return 140cm beträgt, ist sie am Mini nur 120cm lang. Somit kann ein 125cm langer 5mm-Exel-Stab ungekürzt als Leitkantenstab einsetzt werden. Die Querspreize ist mit 115cm auch mit einem solchen Stab zu realisieren. Einen vierten 125cm-Stab benötigt man dann für die obere Querspreize und den Kiel. Mit diesem Stabset ergibt sich ein recht leichtes Gestänge, dass in seiner Festigkeit gut zur Drachengröße passt.</description>
     </item>
     
   </channel>
