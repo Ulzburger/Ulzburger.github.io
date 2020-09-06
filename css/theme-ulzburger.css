@@ -14,8 +14,8 @@
     --MENU-SEARCH-BOX-color: #FFF; /* Override search field border color */
     --MENU-SEARCH-BOX-ICONS-color: #666; /* Override search field icons color */
 
-    --MENU-SECTIONS-ACTIVE-BG-color:#666; /* Background color of the active section and its childs */
-    --MENU-SECTIONS-BG-color:#666; /* Background color of other sections */
+    --MENU-SECTIONS-ACTIVE-BG-color:#395E93; /* Background color of the active section and its childs */
+    --MENU-SECTIONS-BG-color:#395E93; /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #FFF; /* Color of links in menu */
     --MENU-SECTIONS-LINK-HOVER-color: #FFF;  /* Color of links in menu, when hovered */
     --MENU-SECTION-ACTIVE-CATEGORY-color: #333333; /* Color of active category text */
