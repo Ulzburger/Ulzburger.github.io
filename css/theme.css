@@ -1121,7 +1121,7 @@ pre .copy-to-clipboard:hover {
 
 #sidebar #shortcuts h3 {
     font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
-    color: white ;
+    color: white !important;
     margin-top:1rem;
     padding-left: 1rem;
 }
