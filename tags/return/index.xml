@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return on Ulzburger Kites</title>
-    <link>https://ulzburger.github.io/tags/return/</link>
+    <link>https://ulzburgerkites.de/tags/return/</link>
     <description>Recent content in Return on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://ulzburger.github.io/tags/return/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ulzburgerkites.de/tags/return/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Baupläne</title>
-      <link>https://ulzburger.github.io/kiteplans/</link>
+      <link>https://ulzburgerkites.de/kiteplans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/</guid>
       <description>Stammbaum Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kite hat igendeinen Vorgänger, ich nenne sie Paten. Diese Paten habe ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge als Stammbaum meiner Entwürfe.
 Hinweis: Bei den nachfolgenden Grafiken führt ein Klick auf die Abbildung zur 3D-Ansicht.
 End Of Line / EOL</description>
@@ -23,28 +23,28 @@ End Of Line / EOL</description>
     
     <item>
       <title>Return - STD, LW, SUL</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return/</guid>
       <description>Meine Hauptmotivation war es einen Drachen zu erstellen, der weitgehend durch den Kiteplan Generator beschrieben wird. Natürlich muss man sich vor einem solchen Entwurf ein paar grundlegende Gedanken zur Geometrie eines neuen Drachens machen: Größe, Streckung, Bestabung etc. Andererseits greift man auch gerne auf Bewährtes zurück. In meinem Fall waren es Merkmale des End Of Line. Die Leitkantenlänge von 140cm für die Stabtasche und 145cm für den Leitkantenstab, Kielstablänge von 80cm und die obere Spreize wurden vom EOL übernommen.</description>
     </item>
     
     <item>
       <title>Return - Mini</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return_mini/</guid>
       <description>Der Return Mini ist eine Verkleinerung des Returns auf ca. 86%, genauer um den Faktor 6/7. Während die Länge der Leitkante am Segel beim Return 140cm beträgt, ist sie am Mini nur 120cm lang. Somit kann ein 125cm langer 5mm-Exel-Stab ungekürzt als Leitkantenstab eingesetzt werden. Die Querspreize ist mit 115cm auch mit einem solchen Stab zu realisieren. Einen vierten 125cm-Stab benötigt man dann für die obere Querspreize und den Kiel. Mit diesem Stabset ergibt sich ein recht leichtes Gestänge, dass in seiner Festigkeit gut zur Drachengröße passt.</description>
     </item>
     
     <item>
       <title>Return - Maxi</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return_maxi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return_maxi/</guid>
       <description>Nachdem im Drachenforum ein hochskalierter Return mit einer Leitkantenlänge von 160cm gezeigt wurde, habe ich mich entschlossen einen Return-Fullsizer mit 165cm Leitkantenlänge zu testen. Den zugehörigen Plan gibt es nun hier. Die angegebene Waage ist noch nicht final, dafür bin ich diesen Kite noch nicht ausgiebig genug geflogen. Es ist seiner Größe entsprechend langsam und scheint die Trickfähigkeit der Standard-Version weitgehend beibehalten zu haben.
 Jahr der Veröffentlichung 2020
 Pate Return</description>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baupläne on Ulzburger Kites</title>
-    <link>https://ulzburger.github.io/kiteplans/</link>
+    <link>https://ulzburgerkites.de/kiteplans/</link>
     <description>Recent content in Baupläne on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://ulzburger.github.io/kiteplans/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ulzburgerkites.de/kiteplans/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>End Of Line - STD, LW</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_endofline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_endofline/</guid>
       <description>Der End of Line oder EOL ist der erste von mir entworfene Trickdrachen. Der Baulplan zu diesem Kite wurde zunächst nicht veröffentlicht. Wegen der Befürchtung, dass die Qualität der Nachbauten dem Ruf dieses Entwurfs schaden könnte, wurde dieser Kite zunächst von mir kommerziell gebaut und vertrieben. Aufgrund der positiven Erfahrungen mit der Veröffentlichung meines zweiten Entwurfs - dem Return - als offenen Bauplan, habe ich den Bauplan zum EOL dann zwei Jahre später veröffentlicht.</description>
     </item>
     
     <item>
       <title>End Of Line - Mini</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_endofline_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_endofline_mini/</guid>
       <description>Zwei Jahre nach dem Bau des ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.
 Jahr der Veröffentlichung 2016
 Pate EOL
@@ -38,28 +38,28 @@ Leitkante: 5 mm Carbon, 1250 mmm</description>
     
     <item>
       <title>Return - STD, LW, SUL</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return/</guid>
       <description>Meine Hauptmotivation war es einen Drachen zu erstellen, der weitgehend durch den Kiteplan Generator beschrieben wird. Natürlich muss man sich vor einem solchen Entwurf ein paar grundlegende Gedanken zur Geometrie eines neuen Drachens machen: Größe, Streckung, Bestabung etc. Andererseits greift man auch gerne auf Bewährtes zurück. In meinem Fall waren es Merkmale des End Of Line. Die Leitkantenlänge von 140cm für die Stabtasche und 145cm für den Leitkantenstab, Kielstablänge von 80cm und die obere Spreize wurden vom EOL übernommen.</description>
     </item>
     
     <item>
       <title>Return - Mini</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return_mini/</guid>
       <description>Der Return Mini ist eine Verkleinerung des Returns auf ca. 86%, genauer um den Faktor 6/7. Während die Länge der Leitkante am Segel beim Return 140cm beträgt, ist sie am Mini nur 120cm lang. Somit kann ein 125cm langer 5mm-Exel-Stab ungekürzt als Leitkantenstab eingesetzt werden. Die Querspreize ist mit 115cm auch mit einem solchen Stab zu realisieren. Einen vierten 125cm-Stab benötigt man dann für die obere Querspreize und den Kiel. Mit diesem Stabset ergibt sich ein recht leichtes Gestänge, dass in seiner Festigkeit gut zur Drachengröße passt.</description>
     </item>
     
     <item>
       <title>Return - Maxi</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return_maxi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return_maxi/</guid>
       <description>Nachdem im Drachenforum ein hochskalierter Return mit einer Leitkantenlänge von 160cm gezeigt wurde, habe ich mich entschlossen einen Return-Fullsizer mit 165cm Leitkantenlänge zu testen. Den zugehörigen Plan gibt es nun hier. Die angegebene Waage ist noch nicht final, dafür bin ich diesen Kite noch nicht ausgiebig genug geflogen. Es ist seiner Größe entsprechend langsam und scheint die Trickfähigkeit der Standard-Version weitgehend beibehalten zu haben.
 Jahr der Veröffentlichung 2020
 Pate Return</description>
@@ -67,10 +67,10 @@ Pate Return</description>
     
     <item>
       <title>Shift - STD</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_shift/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_shift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_shift/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_shift/</guid>
       <description>Um die Dokumentation zu vervollständigen, hier nun die Infos zum Shift, die ich bisher noch nicht veröffentlicht habe. Eine Besonderheit ist hier die Lösung des Kiels im Kreuzbereich. Das würde ich heute nicht mehr so bauen.
 Paten Nirvana I, Aventador
 Abmessungen Höhe: ca. 95 cm
@@ -81,10 +81,10 @@ Obere Spreize: 5 mm Carbon, 500 mm</description>
     
     <item>
       <title>Escape - STD, LW</title>
-      <link>https://ulzburger.github.io/kiteplans/kiteplan_escape/</link>
+      <link>https://ulzburgerkites.de/kiteplans/kiteplan_escape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/kiteplans/kiteplan_escape/</guid>
+      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_escape/</guid>
       <description>Der erste Entwurf des Escape ist kurz nach dem EOL entstanden, wurde dann aber vom Return-Projekt unterbrochen. Im Sommer 2019 und 2020 habe ich mich wieder mit ihm beschäftigt. Hier ist nun die finale 2020er Version.
 Jahr der Veröffentlichung 2020
 Paten EOL, Shift
