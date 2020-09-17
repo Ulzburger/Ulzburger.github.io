@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ulzburgerkites.de/kiteplan_generator/manual/1_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ulzburgerkites.de/kiteplan_generator/manual/2_desciption/</loc>
+  </url>
+  
+  <url>
     <loc>https://ulzburgerkites.de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ulzburgerkites.de/kiteplan_generator/manual/3_3d_model/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ulzburgerkites.de/kiteplan_generator/manual/4_references/</loc>
   </url>
   
   <url>
@@ -32,6 +48,10 @@
   
   <url>
     <loc>https://ulzburgerkites.de/kiteplans/kiteplan_return_maxi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ulzburgerkites.de/kiteplan_generator/</loc>
   </url>
   
   <url>

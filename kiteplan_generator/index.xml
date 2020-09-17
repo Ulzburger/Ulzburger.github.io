@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bauplangenerator on Ulzburger Kites</title>
+    <link>https://ulzburgerkites.de/kiteplan_generator/</link>
+    <description>Recent content in Bauplangenerator on Ulzburger Kites</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://ulzburgerkites.de/kiteplan_generator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Einleitung</title>
+      <link>https://ulzburgerkites.de/kiteplan_generator/manual/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/1_introduction/</guid>
+      <description>Programm &amp;ldquo;Inkscape&amp;rdquo; Inkscape ist ein professionelles Programm zum Erstellen und Bearbeiten von Vektorgrafiken für Windows, Mac OS X und Linux. Es ist freie und quelloffene Software. (https://inkscape.org/de/)
+Inkscape-Erweiterung &amp;ldquo;Kite Plan Generator&amp;rdquo; Der „Kite Plan Generator“ ist ein Inkscape Erweiterung. Inkscape stellt die Möglichkeit von einfachen Funktionserweiterungen zur Verfügung. Diese bestehen aus einer Eingabemaske und einer Funktion, die das bearbeitete Dokument verändert. Das kann eine Veränderung eines oder mehrerer Elemente einer vorhandenen Zeichnung sein, aber auch das Hinzufügen weiterer Elemente.</description>
+    </item>
+    
+    <item>
+      <title>Funktionsbeschreibung</title>
+      <link>https://ulzburgerkites.de/kiteplan_generator/manual/2_desciption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/2_desciption/</guid>
+      <description>Dokumenteneinstellung Die Erweiterung geht davon aus, dass eine DIN A4 Seite um Querformat vorliegt. Startet man Inkscape erscheint in der Regel eine DIN A4 Seite im Hochformat. Die Umstellung auf das Querformat erfolgt unter den „Dokumenteneinstellungen“, die im Dateimenü zu finden ist. Alternativ kann man die Einstellungen mittels Tastenkombination Umschalt-Strg+D aufrufen.
+Nun öffnet sich ein Fenster, in dem Seitengröße und Ausrichtung wie gewünscht eingestellt werden kann.
+Eingabewerte Ist die Seite wie beschrieben eingestellt worden, kann nun die Erweiterung gestartet werden.</description>
+    </item>
+    
+    <item>
+      <title>3D Modell</title>
+      <link>https://ulzburgerkites.de/kiteplan_generator/manual/3_3d_model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/3_3d_model/</guid>
+      <description>Wenn die Inkscape-Erweiterung das Drachenmodell für die grafische Ausgabe im Inkscape-Dokument berechnet, dann werden zwei Dateien erzeugt, die das entsprechende 3D-Modell beinhalten. Eine der Dateien hat die Endung OBJ, sie enthält im Wesentlichen der Koordinaten des 3D-Objekts. Die andere Datei hat die Endung MTL, sie enthält Beschreibungen zu den Materialien des Objekts, in unseren Fall für das Segel und die Carbon-Stangen. In der MTL-Datei wiederum sind Verweise auf Bild-Dateien mit der Endung PNG enthalten.</description>
+    </item>
+    
+    <item>
+      <title>Referenzen</title>
+      <link>https://ulzburgerkites.de/kiteplan_generator/manual/4_references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/4_references/</guid>
+      <description>Im Text wird als Beispiel eine Sixth Sense Clone verwendet. Der originale Bauplan des „Sitxh Sense“ von Davide Equizzi: http://www.kareloh.com/kite-plans/2175-2/ Der Artikel von Mario Di Biase zum computerunterstützten Entwurf von Trickdrachen hat zu dieser Software-Lösung inspiriert: http://blog.giochivolanti.it/progetti/pav/ Die folgende Arbeit beschreibt eine äquivalente Lösung als Blender-Addon: Bachelorthesis „Entwicklung eines Add-ons zur computergestützten Konstruktion von deltaförmigen Lenkdrachen“, Philipp Garbe, 2017    Eine fünfteilige Inkscape-Einführung: „Der Bielefelder Professor Jörn Loviscach liefert eine Einführung in Inkscape, die für Ingenieure gedacht ist.</description>
+    </item>
+    
+  </channel>
+</rss>
