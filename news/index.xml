@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aktuelles on Ulzburger Kites</title>
-    <link>https://ulzburgerkites.de/news/</link>
+    <link>https://ulzburger.github.io/news/</link>
     <description>Recent content in Aktuelles on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://ulzburgerkites.de/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ulzburger.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EOL on Ulzburger Kites</title>
-    <link>https://ulzburgerkites.de/tags/eol/</link>
+    <link>https://ulzburger.github.io/tags/eol/</link>
     <description>Recent content in EOL on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://ulzburgerkites.de/tags/eol/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ulzburger.github.io/tags/eol/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>End Of Line - STD, LW</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_endofline/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_endofline/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</guid>
       <description>Der End of Line oder EOL ist der erste von mir entworfene Trickdrachen. Der Baulplan zu diesem Kite wurde zunächst nicht veröffentlicht. Wegen der Befürchtung, dass die Qualität der Nachbauten dem Ruf dieses Entwurfs schaden könnte, wurde dieser Kite zunächst von mir kommerziell gebaut und vertrieben. Aufgrund der positiven Erfahrungen mit der Veröffentlichung meines zweiten Entwurfs - dem Return - als offenen Bauplan, habe ich den Bauplan zum EOL dann zwei Jahre später veröffentlicht.</description>
     </item>
     
     <item>
       <title>End Of Line - Mini</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_endofline_mini/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_endofline_mini/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</guid>
       <description>Zwei Jahre nach dem Bau des ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.
 Jahr der Veröffentlichung 2016
 Pate EOL
@@ -38,10 +38,10 @@ Leitkante: 5 mm Carbon, 1250 mmm</description>
     
     <item>
       <title>Baupläne</title>
-      <link>https://ulzburgerkites.de/kiteplans/</link>
+      <link>https://ulzburger.github.io/kiteplans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/</guid>
       <description>Stammbaum Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kite hat igendeinen Vorgänger, ich nenne sie Paten. Diese Paten habe ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge als Stammbaum meiner Entwürfe.
 Hinweis: Bei den nachfolgenden Grafiken führt ein Klick auf die Abbildung zur 3D-Ansicht.
 End Of Line / EOL</description>

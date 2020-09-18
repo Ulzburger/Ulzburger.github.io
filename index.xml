@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Start on Ulzburger Kites</title>
-    <link>https://ulzburgerkites.de/</link>
+    <link>https://ulzburger.github.io/</link>
     <description>Recent content in Start on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://ulzburgerkites.de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ulzburger.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Einleitung</title>
-      <link>https://ulzburgerkites.de/kiteplan_generator/manual/1_introduction/</link>
+      <link>https://ulzburger.github.io/kiteplan_generator/manual/1_introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/1_introduction/</guid>
+      <guid>https://ulzburger.github.io/kiteplan_generator/manual/1_introduction/</guid>
       <description>Programm &amp;ldquo;Inkscape&amp;rdquo; Inkscape ist ein professionelles Programm zum Erstellen und Bearbeiten von Vektorgrafiken für Windows, Mac OS X und Linux. Es ist freie und quelloffene Software. (https://inkscape.org/de/)
 Inkscape-Erweiterung &amp;ldquo;Kite Plan Generator&amp;rdquo; Der „Kite Plan Generator“ ist ein Inkscape Erweiterung. Inkscape stellt die Möglichkeit von einfachen Funktionserweiterungen zur Verfügung. Diese bestehen aus einer Eingabemaske und einer Funktion, die das bearbeitete Dokument verändert. Das kann eine Veränderung eines oder mehrerer Elemente einer vorhandenen Zeichnung sein, aber auch das Hinzufügen weiterer Elemente.</description>
     </item>
     
     <item>
       <title>Funktionsbeschreibung</title>
-      <link>https://ulzburgerkites.de/kiteplan_generator/manual/2_desciption/</link>
+      <link>https://ulzburger.github.io/kiteplan_generator/manual/2_desciption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/2_desciption/</guid>
+      <guid>https://ulzburger.github.io/kiteplan_generator/manual/2_desciption/</guid>
       <description>Dokumenteneinstellung Die Erweiterung geht davon aus, dass eine DIN A4 Seite um Querformat vorliegt. Startet man Inkscape erscheint in der Regel eine DIN A4 Seite im Hochformat. Die Umstellung auf das Querformat erfolgt unter den „Dokumenteneinstellungen“, die im Dateimenü zu finden ist. Alternativ kann man die Einstellungen mittels Tastenkombination Umschalt-Strg+D aufrufen.
 Nun öffnet sich ein Fenster, in dem Seitengröße und Ausrichtung wie gewünscht eingestellt werden kann.
 Eingabewerte Ist die Seite wie beschrieben eingestellt worden, kann nun die Erweiterung gestartet werden.</description>
@@ -33,37 +33,37 @@ Eingabewerte Ist die Seite wie beschrieben eingestellt worden, kann nun die Erwe
     
     <item>
       <title>3D Modell</title>
-      <link>https://ulzburgerkites.de/kiteplan_generator/manual/3_3d_model/</link>
+      <link>https://ulzburger.github.io/kiteplan_generator/manual/3_3d_model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/3_3d_model/</guid>
+      <guid>https://ulzburger.github.io/kiteplan_generator/manual/3_3d_model/</guid>
       <description>Wenn die Inkscape-Erweiterung das Drachenmodell für die grafische Ausgabe im Inkscape-Dokument berechnet, dann werden zwei Dateien erzeugt, die das entsprechende 3D-Modell beinhalten. Eine der Dateien hat die Endung OBJ, sie enthält im Wesentlichen der Koordinaten des 3D-Objekts. Die andere Datei hat die Endung MTL, sie enthält Beschreibungen zu den Materialien des Objekts, in unseren Fall für das Segel und die Carbon-Stangen. In der MTL-Datei wiederum sind Verweise auf Bild-Dateien mit der Endung PNG enthalten.</description>
     </item>
     
     <item>
       <title>Referenzen</title>
-      <link>https://ulzburgerkites.de/kiteplan_generator/manual/4_references/</link>
+      <link>https://ulzburger.github.io/kiteplan_generator/manual/4_references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplan_generator/manual/4_references/</guid>
+      <guid>https://ulzburger.github.io/kiteplan_generator/manual/4_references/</guid>
       <description>Im Text wird als Beispiel eine Sixth Sense Clone verwendet. Der originale Bauplan des „Sitxh Sense“ von Davide Equizzi: http://www.kareloh.com/kite-plans/2175-2/ Der Artikel von Mario Di Biase zum computerunterstützten Entwurf von Trickdrachen hat zu dieser Software-Lösung inspiriert: http://blog.giochivolanti.it/progetti/pav/ Die folgende Arbeit beschreibt eine äquivalente Lösung als Blender-Addon: Bachelorthesis „Entwicklung eines Add-ons zur computergestützten Konstruktion von deltaförmigen Lenkdrachen“, Philipp Garbe, 2017    Eine fünfteilige Inkscape-Einführung: „Der Bielefelder Professor Jörn Loviscach liefert eine Einführung in Inkscape, die für Ingenieure gedacht ist.</description>
     </item>
     
     <item>
       <title>End Of Line - STD, LW</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_endofline/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_endofline/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</guid>
       <description>Der End of Line oder EOL ist der erste von mir entworfene Trickdrachen. Der Baulplan zu diesem Kite wurde zunächst nicht veröffentlicht. Wegen der Befürchtung, dass die Qualität der Nachbauten dem Ruf dieses Entwurfs schaden könnte, wurde dieser Kite zunächst von mir kommerziell gebaut und vertrieben. Aufgrund der positiven Erfahrungen mit der Veröffentlichung meines zweiten Entwurfs - dem Return - als offenen Bauplan, habe ich den Bauplan zum EOL dann zwei Jahre später veröffentlicht.</description>
     </item>
     
     <item>
       <title>End Of Line - Mini</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_endofline_mini/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_endofline_mini/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</guid>
       <description>Zwei Jahre nach dem Bau des ersten EOL habe eine verkleinerte Version mit einem Leitkantenstab von 125 cm gebaut. Waage und Segel wurden skaliert. Die zwei Standoffs wurden auf einen Standoff reduziert.
 Jahr der Veröffentlichung 2016
 Pate EOL
@@ -77,28 +77,28 @@ Leitkante: 5 mm Carbon, 1250 mmm</description>
     
     <item>
       <title>Return - STD, LW, SUL</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_return/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return/</guid>
       <description>Meine Hauptmotivation war es einen Drachen zu erstellen, der weitgehend durch den Kiteplan Generator beschrieben wird. Natürlich muss man sich vor einem solchen Entwurf ein paar grundlegende Gedanken zur Geometrie eines neuen Drachens machen: Größe, Streckung, Bestabung etc. Andererseits greift man auch gerne auf Bewährtes zurück. In meinem Fall waren es Merkmale des End Of Line. Die Leitkantenlänge von 140cm für die Stabtasche und 145cm für den Leitkantenstab, Kielstablänge von 80cm und die obere Spreize wurden vom EOL übernommen.</description>
     </item>
     
     <item>
       <title>Return - Mini</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return_mini/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return_mini/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</guid>
       <description>Der Return Mini ist eine Verkleinerung des Returns auf ca. 86%, genauer um den Faktor 6/7. Während die Länge der Leitkante am Segel beim Return 140cm beträgt, ist sie am Mini nur 120cm lang. Somit kann ein 125cm langer 5mm-Exel-Stab ungekürzt als Leitkantenstab eingesetzt werden. Die Querspreize ist mit 115cm auch mit einem solchen Stab zu realisieren. Einen vierten 125cm-Stab benötigt man dann für die obere Querspreize und den Kiel. Mit diesem Stabset ergibt sich ein recht leichtes Gestänge, dass in seiner Festigkeit gut zur Drachengröße passt.</description>
     </item>
     
     <item>
       <title>Return - Maxi</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_return_maxi/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_return_maxi/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</guid>
       <description>Nachdem im Drachenforum ein hochskalierter Return mit einer Leitkantenlänge von 160cm gezeigt wurde, habe ich mich entschlossen einen Return-Fullsizer mit 165cm Leitkantenlänge zu testen. Den zugehörigen Plan gibt es nun hier. Die angegebene Waage ist noch nicht final, dafür bin ich diesen Kite noch nicht ausgiebig genug geflogen. Es ist seiner Größe entsprechend langsam und scheint die Trickfähigkeit der Standard-Version weitgehend beibehalten zu haben.
 Jahr der Veröffentlichung 2020
 Pate Return</description>
@@ -106,10 +106,10 @@ Pate Return</description>
     
     <item>
       <title>Shift - STD</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_shift/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_shift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_shift/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_shift/</guid>
       <description>Um die Dokumentation zu vervollständigen, hier nun die Infos zum Shift, die ich bisher noch nicht veröffentlicht habe. Eine Besonderheit ist hier die Lösung des Kiels im Kreuzbereich. Das würde ich heute nicht mehr so bauen.
 Paten Nirvana I, Aventador
 Abmessungen Höhe: ca. 95 cm
@@ -120,10 +120,10 @@ Obere Spreize: 5 mm Carbon, 500 mm</description>
     
     <item>
       <title>Escape - STD, LW</title>
-      <link>https://ulzburgerkites.de/kiteplans/kiteplan_escape/</link>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_escape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburgerkites.de/kiteplans/kiteplan_escape/</guid>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_escape/</guid>
       <description>Der erste Entwurf des Escape ist kurz nach dem EOL entstanden, wurde dann aber vom Return-Projekt unterbrochen. Im Sommer 2019 und 2020 habe ich mich wieder mit ihm beschäftigt. Hier ist nun die finale 2020er Version.
 Jahr der Veröffentlichung 2020
 Paten EOL, Shift
