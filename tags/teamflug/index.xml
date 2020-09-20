@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teamflug on Ulzburger Kites</title>
+    <link>https://ulzburger.github.io/tags/teamflug/</link>
+    <description>Recent content in Teamflug on Ulzburger Kites</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://ulzburger.github.io/tags/teamflug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teamflug</title>
+      <link>https://ulzburger.github.io/team_flying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/team_flying/</guid>
+      <description>Zu der Zeit zu der wir die ersten Prototypen des EOL geflogen sind, haben wir in St. Peter Ording unter Anleitung von Thorsten Majora die ersten Versuche im Teamflug unternommen.
+Hier ein Video aus dieser Zeit:
+   Später hatten wir die Gelegenheit auf dem Drachenfest in St. Peter Ording zu zwei kleineren Auftritten. Hier ein Video von unserem zweiten Auftritt in 2017:
+   Im Anschluss wurden wir von der lokalen Presse interviewed, was dann diesen Beitrag zu Folge hatte:</description>
+    </item>
+    
+  </channel>
+</rss>

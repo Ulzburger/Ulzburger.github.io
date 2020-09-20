@@ -63,11 +63,19 @@
   </url>
   
   <url>
+    <loc>https://ulzburger.github.io/team_flying/</loc>
+  </url>
+  
+  <url>
     <loc>https://ulzburger.github.io/contact/</loc>
   </url>
   
   <url>
     <loc>https://ulzburger.github.io/tags/alternate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ulzburger.github.io/tags/bauplangenerator/</loc>
   </url>
   
   <url>
@@ -104,6 +112,10 @@
   
   <url>
     <loc>https://ulzburger.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ulzburger.github.io/tags/teamflug/</loc>
   </url>
   
 </urlset>
