@@ -50,22 +50,22 @@ Eingabewerte Ist die Seite wie beschrieben eingestellt worden, kann nun die Erwe
     </item>
     
     <item>
-      <title>Basic Launches and Landings</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/1_launches_and_landings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/stuntkite_tricks/1_launches_and_landings/</guid>
-      <description>Basic Launch/Take-Off ° Start von den Flügelspitzen.
- Der Drachen liegt startfertig irgendwo im Windfenster (am besten aber in der Windfenstermitte) auf dem Rücken, die Nase vom Piloten weg. Die Leinen in Oberkörper-/Hüfthöhe halten. Den Drachen zunächst aufrecht stellen. Dann mit einer Abwärtsbewegung der Arme die Leinen anziehen, dabei evtl. zurückgehen. Der Drachen steigt senkrecht hoch. Erfolgt der Start am Windfensterrand, fliegt der Drachen gleich Richtung Windfenstermitte, evtl. gegensteuern.  Leadingedge Launch ° Start von der Leitkante.</description>
-    </item>
-    
-    <item>
       <title>End Of Line - STD, LW</title>
       <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</guid>
       <description>Der End of Line oder EOL ist der erste von mir entworfene Trickdrachen. Der Baulplan zu diesem Kite wurde zunächst nicht veröffentlicht. Wegen der Befürchtung, dass die Qualität der Nachbauten dem Ruf dieses Entwurfs schaden könnte, wurde dieser Kite zunächst von mir kommerziell gebaut und vertrieben. Aufgrund der positiven Erfahrungen mit der Veröffentlichung meines zweiten Entwurfs - dem Return - als offenen Bauplan, habe ich den Bauplan zum EOL dann zwei Jahre später veröffentlicht.</description>
+    </item>
+    
+    <item>
+      <title>Starts</title>
+      <link>https://ulzburger.github.io/tricks/1_launches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/tricks/1_launches/</guid>
+      <description>Basic Launch * Start von den Flügelspitzen.
+ Der Drachen liegt startfertig irgendwo im Windfenster (am besten aber in der Windfenstermitte) auf dem Rücken, die Nase vom Piloten weg. Die Leinen in Oberkörper-/Hüfthöhe halten. Den Drachen zunächst aufrecht stellen. Dann mit einer Abwärtsbewegung der Arme die Leinen anziehen, dabei evtl. zurückgehen. Der Drachen steigt senkrecht hoch. Erfolgt der Start am Windfensterrand, fliegt der Drachen gleich Richtung Windfenstermitte, evtl. gegensteuern.  Leading Edge Launch * Start von der Leitkante.</description>
     </item>
     
     <item>
@@ -86,14 +86,14 @@ Leitkante: 5 mm Carbon, 1250 mmm</description>
     </item>
     
     <item>
-      <title>Recoveries</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/2_recoveries/</link>
+      <title>Landungen</title>
+      <link>https://ulzburger.github.io/tricks/2_landings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/stuntkite_tricks/2_recoveries/</guid>
-      <description>Starten aus einer „Non-Standard-Position“, Level 1 – 2.
-Cartwheel/Ground-Snap/Flip Over *   Der Trick wird immer in Richtung Windfenstermitte ausgeführt.
- Der Drachen liegt auf der linken (regulär rechten) Leitkante in der linken Windfensterhälfte. Die obere Leine ziehen, untere nachlassen. Drachen dreht auf die rechte Leitkante, Nase zur Windfenstermitte. Leinen etwas nachlassen, dann durch kräftiges Ziehen der oberen Leine (rechts) den Drachen in einem „Radschlag“ nochmals über die linke Leitkante auf beide Flügelspitzen in die Basic-Start Position drehen.</description>
+      <guid>https://ulzburger.github.io/tricks/2_landings/</guid>
+      <description>Leading Edge Landing * Leitkanten-Landung.
+ Den Drachen knapp über dem Boden zum Windfensterrand fliegen. Nach vorn gehen und obere Hand vorschieben. Drachen soll auf der Leitkante landen und auf ihr stehen bleiben und nicht nach hinten oder vorn kippen.  Zweipunktlandung ** Landung auf den beiden Flügelspitzen aus Horizontalflug.
+ Den Drachen an den Windfensterrand fliegen, dort mit einem Snap-Stall senkrecht aufrichten, dabei Vorgehen und den Drachen sanft auf beiden Flügelspitzen abstellen.</description>
     </item>
     
     <item>
@@ -126,14 +126,13 @@ Pate Return</description>
     </item>
     
     <item>
-      <title>Advanced Starts</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/3_advanced_starts/</link>
+      <title>Bodenarbeit</title>
+      <link>https://ulzburger.github.io/tricks/3_recoveries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/stuntkite_tricks/3_advanced_starts/</guid>
-      <description>Fortgeschrittene Starts, Level 2 – 5.
-Reverse Fade Launch/Pancake-to-Fade-Start/Belly-Start ** Start durch Umklappen aus der Bauch-/Pancake-Lage in einen Fade.
- Der Drachen liegt flach auf dem Bauch (Pancake), die Nase zeigt vom Piloten weg. Beide Leinen sachte anziehen bis sich die Flügelenden leicht anheben. Jetzt beide Leinen kurz und kräftig anziehen, dann sofort nach vorn stoßen. Der Drachen hebt sich vom Boden und schwenkt aus der Bauchlage in einen Fade. Wenn der Drachen im Fade genügend Höhe erreicht hat, dann durch Lenken und Zurückgehen in den Weiterflug bringen.</description>
+      <guid>https://ulzburger.github.io/tricks/3_recoveries/</guid>
+      <description>Cartwheel *   Der Trick wird immer in Richtung Windfenstermitte ausgeführt.
+ Der Drachen liegt auf der linken (regulär rechten) Leitkante in der linken Windfensterhälfte. Die obere Leine ziehen, untere nachlassen. Drachen dreht auf die rechte Leitkante, Nase zur Windfenstermitte. Leinen etwas nachlassen, dann durch kräftiges Ziehen der oberen Leine (rechts) den Drachen in einem „Radschlag“ nochmals über die linke Leitkante auf beide Flügelspitzen in die Basic-Start Position drehen.  Variante: An der Leine des oberen Flügels wird langsam und gleichmäßig gezogen, während die andere Hand nachgibt.</description>
     </item>
     
     <item>
@@ -148,6 +147,17 @@ Abmessungen Höhe: ca. 95 cm
 Spannweite: ca. 235 cm
 Details zum Standard (STD) Kiel: SkyShark P200, ca. 869 mm + FSD-Nocke mit Messinggewicht
 Obere Spreize: 5 mm Carbon, 500 mm</description>
+    </item>
+    
+    <item>
+      <title>Axel basierende Tricks</title>
+      <link>https://ulzburger.github.io/tricks/4_axel_based/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/tricks/4_axel_based/</guid>
+      <description>Axel * Horizontal-Rotation in Bauchlage.
+  Variante 1
+ Den Drachen im Aufwärtsflug mit einem Stall zum Schweben bringen. Die rechte Hand drücken und sofort wieder impulsiv aber dosiert anziehen, linke Hand bereits Drücken. Der Drachen muss schräg in der Luft stehen, linker Flügel zum Piloten. Jetzt sofort auch rechte Leine nachgeben (evtl. sogar Vorgehen) damit der Drachen genug Leine bekommt, um waagerecht auf dem Bauch eine 360°-Rotation zu machen.</description>
     </item>
     
     <item>
@@ -166,92 +176,49 @@ Obere Spreize: 5 mm Carbon, 495 mm</description>
     </item>
     
     <item>
-      <title>Landings</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/4_landings/</link>
+      <title>Fade basierende Tricks</title>
+      <link>https://ulzburger.github.io/tricks/5_fade_based/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/stuntkite_tricks/4_landings/</guid>
-      <description>Landungen, Level 1-4.
-Pancake- oder Belly-Landing ** Gewollte Bauchlandung.
- Den Drachen senkrecht abwärts fliegen, Hände weit hinter den Körper. Dabei Vorgehen um Druck und Geschwindigkeit aus dem Drachen zu nehmen Ca. ½ m über dem Boden Hände nach vorn schnellen lassen, evtl. schnellen Schritt nach vorne dabei machen. Der Drachen macht eine sanfte Bauchlandung mit Nase weg vom Piloten. Gelingt besser am Windfensterrand. Bei Leichtwind auch in der Windfenstermitte. Durch Vorwärtsgehen während der Pancake-Einleitung kann man den Drachen sogar noch ein bisschen Vorwärtsgleiten lassen und wie ein Flugzeug landen.</description>
+      <guid>https://ulzburger.github.io/tricks/5_fade_based/</guid>
+      <description>Axel to Fade ** Backflip to Fade ** Backspin ** Fade ** Half Axel to Fade ** Lateral Roll ** Pancake to Fade ** Rising Fade ** Rolling Fade ** Spin Axel to Fade ** Flicflac *** Duplex *** Mutex *** Triplex *** Backspin Cascade **** Backspin Comete **** </description>
     </item>
     
     <item>
-      <title>Groundwork</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/5_groundwork/</link>
+      <title>Backflip basierende Tricks</title>
+      <link>https://ulzburger.github.io/tricks/6_backflip_based/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/stuntkite_tricks/5_groundwork/</guid>
-      <description>Level 1-5.
-Tip-Stand/Wingtip-Stand/Spike Standing-up * Auf eine Spitze stellen und balancieren.
-   Den Drachen in beliebige Stelle im Windfenster auf dem Rücken ablegen Die Flügelspitze, auf der der Drachen aufgerichtet werden soll, auf sich zuziehen bis der Drachen fast quer zum Piloten liegt. Jetzt gefühlvoll an der Leine dieses Flügels ziehen, bis der Drachen sich aufrichtet. Die andere Leine locker lassen. Drachen so lange wie möglich auf der Spitze balancieren, dann in den Flug starten oder Moves anschließen.</description>
+      <guid>https://ulzburger.github.io/tricks/6_backflip_based/</guid>
+      <description>Backflip * Lazy Susan ** Lifter ** Flap Jack ** Start-Lazy Susan-Landung-Kombination.
+   Den Drachen in Basic-Start Position und nach vorn kippen lassen. Kurz bevor der Drachen auf den Boden fällt Leinen blitzschnell anziehen, Arme bis hinter den Körper ziehen Arme blitzschnell wieder nach vorn werfen und Drachen in einen Backflip werfen. Dann eine Lazy Susan ausführen, Drachen am Ende der Lazy Susan aufrichten und durch Vorgehen landen oder in den Weiterflug übergehen.</description>
     </item>
     
     <item>
-      <title>Stops, Stalls, Spins, Slides</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.1_tricks/</link>
+      <title>Yoyo basierende Tricks</title>
+      <link>https://ulzburger.github.io/tricks/7_yoyo_based/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.1_tricks/</guid>
-      <description>Level 2 – 3.
-Stop, oder Englisch Stall (= abwürgen, aufschieben, hinhalten), ist ein durch einen Strömungsabriss hervorgerufenes „Auf-der-Stelle-Stehen“ des Drachens in der Luft, das heißt, der Drache bewegt sich für einen definierten Zeitraum in keine Richtung. Ein Strömungsabriss ist Voraussetzung (Set-Up) für das Ausführen der meisten Tricks (nicht z.B. beim Cométe). Bei fortgeschrittenen Piloten ist der Stall selbst kaum noch als Einzelaktion erkennbar, er ist dann quasi Bestandteil des oder der folgenden Moves.</description>
+      <guid>https://ulzburger.github.io/tricks/7_yoyo_based/</guid>
+      <description>Fruit Roll Up ** Yoyo ** Airdrop *** Lewis *** Paternoster *** Yoyo Lazy *** Yoyo Multilazy *** Airburst **** Crazy Copter **** La Dole **** Wap Doo Wap **** Yofade **** Yofade Backspin **** Yoyo Tipstand **** </description>
     </item>
     
     <item>
-      <title>Flats, Flat-Spins, Backflip, Backside-Rotations</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.2_tricks/</link>
+      <title>Kombinierte Tricks</title>
+      <link>https://ulzburger.github.io/tricks/8_combinations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.2_tricks/</guid>
-      <description>Level 1 – 5.
-Pop-Up Kurzer Zug an einer Leine.
-Der Pop-up ist kein eigenständiger Trick, aber er kann bei allen flachen Drehungen des Drachens (auf dem Bauch, auf dem Rücken) unterstützend eingesetzt werden.
-Beispiel: Wenn der Drachen im Axel oder Flat-Spin die halbe Rotation vollzogen hat, kannst Du den Rest der Rotation durch einen Zug mit der seitenrichtigen Leine beschleunigen, bzw. die Rotationsbewegung fortsetzen. Das ist wichtig bei allen Rotationen, die über 180° hinausgehen, 360°er/540°er-Spins, Backspin, Cascade, Fountain, usw.</description>
+      <guid>https://ulzburger.github.io/tricks/8_combinations/</guid>
+      <description>Cukoo Clock ** Flicflac ** Pancake to Fade ** Airdrop *** Fruit Roll Up *** Jacob&amp;rsquo;s Ladder *** Paternoster *** Duplex *** Mutex *** Triplex *** Torpille *** Möbius *** Airburst **** </description>
     </item>
     
     <item>
-      <title>Lazy based Moves</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.3_tricks/</link>
+      <title>Sonstige Tricks</title>
+      <link>https://ulzburger.github.io/tricks/9_others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.3_tricks/</guid>
-      <description>Insane: **  Den Drachen in Windfenstermitte nach oben fliegen, Hände hinter dem Körper. Wenn der Drachen den Vortrieb verliert, Hände nach oben werfen und den Drachen in einen Backflip legen. Für eine Seite entscheiden und diese Leine auf leichtem Zug halten, die andere Leine locker lassen. Leicht rückwärtsgehen damit der Drachen nicht aus dem Backflip kommt. Auslöseleine immer dosiert auf Zug halten. Der Drachen fällt (schwebt) mit den Rotationen langsam nach unten.</description>
-    </item>
-    
-    <item>
-      <title>Fades</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.4_tricks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.4_tricks/</guid>
-      <description>Level 1 – 6.
-Fade ** Der Drachen liegt auf dem Rücken, Nase zeigt zum Piloten.
-  Rising Fade ** Steigen und Sinken des Drachens im Fade.
-Der Rising Fade ist kein eigenständiger Trick. Der Begriff beschreibt nur das Schwebeverhalten des Drachens, wenn er im Fade liegt. Man kann den Drachen durch Zurück- oder Vorwärtsgehen steigen oder sinken lassen. Die Leinen müssen dabei immer kontrolliert unter leichtem Zug sein.</description>
-    </item>
-    
-    <item>
-      <title>Axel Group, Axel based Moves</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.5_tricks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.5_tricks/</guid>
-      <description>Level 1 – 4.
-Axel * Horizontal-Rotation in Bauchlage.
-  Variante 1
- Den Drachen im Aufwärtsflug mit einem Stall zum Schweben bringen. Die rechte Hand drücken und sofort wieder impulsiv aber dosiert anziehen, linke Hand bereits Drücken. Der Drachen muss schräg in der Luft stehen, linker Flügel zum Piloten. Jetzt sofort auch rechte Leine nachgeben (evtl. sogar Vorgehen) damit der Drachen genug Leine bekommt, um waagerecht auf dem Bauch eine 360°-Rotation zu machen.</description>
-    </item>
-    
-    <item>
-      <title>Combinations</title>
-      <link>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.6_tricks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/stuntkite_tricks/6_tricks/6.6_tricks/</guid>
-      <description>Level 3 – 6.
-Kombi-Tricks bestehen immer aus einer Serie von ineinanderfließenden Einzeltricks. Kombi-Tricks gelingen nur richtig, wenn die enthaltenen Tricks auch jeweils für sich allein beherrscht werden. Der Ablauf von Kombi-Tricks ist sehr komplex. Das richtige Timing von Körperbewegung und Steuerimpulsen ist für das Gelingen und den fließenden Ablauf ausschlaggebend.
-Fruit-Roll-Up **** Die „Fruchtrolle“, Drachen einwickeln und auswickeln.
- Den Drachen in den Zenit fliegen. Wenn der Auftrieb nachlässt den Drachen mit einem kräftigen Pull an beiden Leinen in einen Frontflip holen.</description>
+      <guid>https://ulzburger.github.io/tricks/9_others/</guid>
+      <description>Fly Away * Stall * Snap Stall * Spin Stall * 360 * Pancake * Slide ** Rolling Up ** Comete **** </description>
     </item>
     
   </channel>
