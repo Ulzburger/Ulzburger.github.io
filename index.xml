@@ -59,16 +59,6 @@ Eingabewerte Ist die Seite wie beschrieben eingestellt worden, kann nun die Erwe
     </item>
     
     <item>
-      <title>Starts</title>
-      <link>https://ulzburger.github.io/tricks/1_launches/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/1_launches/</guid>
-      <description>Basic Launch * Start von den Flügelspitzen.
- Der Drachen liegt startfertig irgendwo im Windfenster (am besten aber in der Windfenstermitte) auf dem Rücken, die Nase vom Piloten weg. Die Leinen in Oberkörper-/Hüfthöhe halten. Den Drachen zunächst aufrecht stellen. Dann mit einer Abwärtsbewegung der Arme die Leinen anziehen, dabei evtl. zurückgehen. Der Drachen steigt senkrecht hoch. Erfolgt der Start am Windfensterrand, fliegt der Drachen gleich Richtung Windfenstermitte, evtl. gegensteuern.  Leading Edge Launch * Start von der Leitkante.</description>
-    </item>
-    
-    <item>
       <title>End Of Line - Mini</title>
       <link>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,17 +73,6 @@ Details Kiel: 5 mm Carbon, 750 mm
 Obere Spreize: 5 mm Carbon, 425 mmm
 Untere Spreize: einteilig, 5 mm Carbon, 1210 mm
 Leitkante: 5 mm Carbon, 1250 mmm</description>
-    </item>
-    
-    <item>
-      <title>Landungen</title>
-      <link>https://ulzburger.github.io/tricks/2_landings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/2_landings/</guid>
-      <description>Leading Edge Landing * Leitkanten-Landung.
- Den Drachen knapp über dem Boden zum Windfensterrand fliegen. Nach vorn gehen und obere Hand vorschieben. Drachen soll auf der Leitkante landen und auf ihr stehen bleiben und nicht nach hinten oder vorn kippen.  Zweipunktlandung ** Landung auf den beiden Flügelspitzen aus Horizontalflug.
- Den Drachen an den Windfensterrand fliegen, dort mit einem Snap-Stall senkrecht aufrichten, dabei Vorgehen und den Drachen sanft auf beiden Flügelspitzen abstellen.</description>
     </item>
     
     <item>
@@ -126,16 +105,6 @@ Pate Return</description>
     </item>
     
     <item>
-      <title>Bodenarbeit</title>
-      <link>https://ulzburger.github.io/tricks/3_recoveries/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/3_recoveries/</guid>
-      <description>Cartwheel *   Der Trick wird immer in Richtung Windfenstermitte ausgeführt.
- Der Drachen liegt auf der linken (regulär rechten) Leitkante in der linken Windfensterhälfte. Die obere Leine ziehen, untere nachlassen. Drachen dreht auf die rechte Leitkante, Nase zur Windfenstermitte. Leinen etwas nachlassen, dann durch kräftiges Ziehen der oberen Leine (rechts) den Drachen in einem „Radschlag“ nochmals über die linke Leitkante auf beide Flügelspitzen in die Basic-Start Position drehen.  Variante: An der Leine des oberen Flügels wird langsam und gleichmäßig gezogen, während die andere Hand nachgibt.</description>
-    </item>
-    
-    <item>
       <title>Shift - STD</title>
       <link>https://ulzburger.github.io/kiteplans/kiteplan_shift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -147,17 +116,6 @@ Abmessungen Höhe: ca. 95 cm
 Spannweite: ca. 235 cm
 Details zum Standard (STD) Kiel: SkyShark P200, ca. 869 mm + FSD-Nocke mit Messinggewicht
 Obere Spreize: 5 mm Carbon, 500 mm</description>
-    </item>
-    
-    <item>
-      <title>Axel basierende Tricks</title>
-      <link>https://ulzburger.github.io/tricks/4_axel_based/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/4_axel_based/</guid>
-      <description>Axel * Horizontal-Rotation in Bauchlage.
-  Variante 1
- Den Drachen im Aufwärtsflug mit einem Stall zum Schweben bringen. Die rechte Hand drücken und sofort wieder impulsiv aber dosiert anziehen, linke Hand bereits Drücken. Der Drachen muss schräg in der Luft stehen, linker Flügel zum Piloten. Jetzt sofort auch rechte Leine nachgeben (evtl. sogar Vorgehen) damit der Drachen genug Leine bekommt, um waagerecht auf dem Bauch eine 360°-Rotation zu machen.</description>
     </item>
     
     <item>
@@ -173,52 +131,6 @@ Abmessungen Höhe: ca. 100 cm
 Spannweite: ca. 235 cm
 Details zum Standard (STD) Kiel: Aurel Agil 400, 850 mm + FSD-Nocke mit Messinggewicht
 Obere Spreize: 5 mm Carbon, 495 mm</description>
-    </item>
-    
-    <item>
-      <title>Fade basierende Tricks</title>
-      <link>https://ulzburger.github.io/tricks/5_fade_based/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/5_fade_based/</guid>
-      <description>Axel to Fade ** Backflip to Fade ** Backspin ** Fade ** Half Axel to Fade ** Lateral Roll ** Pancake to Fade ** Rising Fade ** Rolling Fade ** Spin Axel to Fade ** Flicflac *** Duplex *** Mutex *** Triplex *** Backspin Cascade **** Backspin Comete **** </description>
-    </item>
-    
-    <item>
-      <title>Backflip basierende Tricks</title>
-      <link>https://ulzburger.github.io/tricks/6_backflip_based/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/6_backflip_based/</guid>
-      <description>Backflip * Lazy Susan ** Lifter ** Flap Jack ** Start-Lazy Susan-Landung-Kombination.
-   Den Drachen in Basic-Start Position und nach vorn kippen lassen. Kurz bevor der Drachen auf den Boden fällt Leinen blitzschnell anziehen, Arme bis hinter den Körper ziehen Arme blitzschnell wieder nach vorn werfen und Drachen in einen Backflip werfen. Dann eine Lazy Susan ausführen, Drachen am Ende der Lazy Susan aufrichten und durch Vorgehen landen oder in den Weiterflug übergehen.</description>
-    </item>
-    
-    <item>
-      <title>Yoyo basierende Tricks</title>
-      <link>https://ulzburger.github.io/tricks/7_yoyo_based/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/7_yoyo_based/</guid>
-      <description>Fruit Roll Up ** Yoyo ** Airdrop *** Lewis *** Paternoster *** Yoyo Lazy *** Yoyo Multilazy *** Airburst **** Crazy Copter **** La Dole **** Wap Doo Wap **** Yofade **** Yofade Backspin **** Yoyo Tipstand **** </description>
-    </item>
-    
-    <item>
-      <title>Kombinierte Tricks</title>
-      <link>https://ulzburger.github.io/tricks/8_combinations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/8_combinations/</guid>
-      <description>Cukoo Clock ** Flicflac ** Pancake to Fade ** Airdrop *** Fruit Roll Up *** Jacob&amp;rsquo;s Ladder *** Paternoster *** Duplex *** Mutex *** Triplex *** Torpille *** Möbius *** Airburst **** </description>
-    </item>
-    
-    <item>
-      <title>Sonstige Tricks</title>
-      <link>https://ulzburger.github.io/tricks/9_others/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/tricks/9_others/</guid>
-      <description>Fly Away * Stall * Stop, oder Englisch Stall (= abwürgen, aufschieben, hinhalten), ist ein durch einen Strömungsabriss hervorgerufenes „Auf-der-Stelle-Stehen“ des Drachens in der Luft, das heißt, der Drache bewegt sich für einen definierten Zeitraum in keine Richtung. Ein Strömungsabriss ist Voraussetzung (Set-Up) für das Ausführen der meisten Tricks (nicht z.B. beim Cométe). Bei fortgeschrittenen Piloten ist der Stall selbst kaum noch als Einzelaktion erkennbar, er ist dann quasi Bestandteil des oder der folgenden Moves.</description>
     </item>
     
   </channel>
