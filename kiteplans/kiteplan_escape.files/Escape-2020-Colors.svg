@@ -15,21 +15,24 @@
    version="1.1"
    id="svg2296"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Escape-2020-Colors.svg">
+   sodipodi:docname="Escape-2020-Colors.svg"
+   inkscape:export-filename="C:\Users\Birger\Documents\GitHub\static-website\sites\ulzburger-kites\content\kiteplans\kiteplan_escape.files\Escape-2020-Colors.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2290" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#c1e4f3"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0627876"
-     inkscape:cx="108.92833"
+     inkscape:zoom="0.88446429"
+     inkscape:cx="396.85039"
      inkscape:cy="561.25984"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2169"
+     inkscape:current-layer="g2235"
      showgrid="false"
      inkscape:window-width="1278"
      inkscape:window-height="1329"
@@ -2399,7 +2402,12 @@
            x="136.29173"
            y="76.845863"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           id="tspan2107">UQS Stäbe..... SkyShark BD</tspan></text>
+           id="tspan2107">UQS Stäbe..... SkyShark BD</tspan><tspan
+           sodipodi:role="line"
+           x="136.29173"
+           y="82.137527"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           id="tspan4649">               Strong</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Concielian Break Semi-Italic';-inkscape-font-specification:'Concielian Break Semi-Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2410,7 +2418,7 @@
            id="tspan2139"
            x="4.7495785"
            y="69.28598"
-           style="stroke-width:0.26458332;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Strong</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';stroke-width:0.26458332">Strong</tspan></text>
     </g>
     <g
        id="g2301"
@@ -2762,7 +2770,7 @@
            id="tspan2143"
            x="4.7495785"
            y="128.19957"
-           style="stroke-width:0.26458332;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Standard</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';stroke-width:0.26458332">Standard</tspan></text>
     </g>
     <g
        id="g2368"
@@ -3126,7 +3134,7 @@
            id="tspan2147"
            x="4.5379119"
            y="187.11314"
-           style="stroke-width:0.26458332;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Low Wind</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';stroke-width:0.26458332">Low Wind</tspan></text>
     </g>
     <g
        id="g2436"
@@ -3491,11 +3499,11 @@
            id="tspan2151"
            x="4.5379119"
            y="246.02673"
-           style="stroke-width:0.26458332;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Ultra </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';stroke-width:0.26458332">Ultra </tspan><tspan
            sodipodi:role="line"
            x="4.5379119"
-           y="259.25589"
-           style="stroke-width:0.26458332;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+           y="259.92618"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';stroke-width:0.26458332"
            id="tspan2153">Low Wind</tspan></text>
     </g>
     <text
