@@ -5,10 +5,6 @@
     <link>https://ulzburger.github.io/news/</link>
     <description>Recent content in Aktuelles on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    
-	<atom:link href="https://ulzburger.github.io/news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de</language><atom:link href="https://ulzburger.github.io/news/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
