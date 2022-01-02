@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DragonForce 65 on Ulzburger Boats</title>
+    <link>https://ulzburger.github.io/rcmodelboats/dragonforce65/</link>
+    <description>Recent content in DragonForce 65 on Ulzburger Boats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://ulzburger.github.io/rcmodelboats/dragonforce65/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meine Boote</title>
+      <link>https://ulzburger.github.io/rcmodelboats/dragonforce65/boats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/rcmodelboats/dragonforce65/boats/</guid>
+      <description>Ich habe zur Zeit zwei Boote.
+Das eine ist weitgehend im Baukastenzustand, es ist mein &amp;ldquo;Baukastenboot&amp;rdquo;. Folgende Änderungen habe ich vorgenommen:
+ Der Empfänger wurde ausgetauscht, da ich eine SkyFly verwende. Die Original-Batterie-Halterung wird nicht eingesetzt, da ich einen Akku-Pack mir vier AAA-Zellen einsetze. Die Kiel hat an der Unterseite einen Patch erhalten, der die Befestigungsschraube abdeckt. Es wurden Nummern auf Rumpf und Segel angebracht. Der Rumpf hat schmale Zierstreifen erhalten.</description>
+    </item>
+    
+    <item>
+      <title>Selbstgebaute Segelsätze</title>
+      <link>https://ulzburger.github.io/rcmodelboats/dragonforce65/sails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/rcmodelboats/dragonforce65/sails/</guid>
+      <description>Nach dem Regelwerk ist es zulässig Segel zu verwenden, die nicht vom Hersteller stammen. Ich habe mir für drei Segelsätze entsprechende Pläne erstellt und fahre diese auf meinem Zweitboot. Ich stelle hier die Pläne zu den Segeln zur Verfügung. Sowohl als SVG-Dateien, die ich mit Inkscape erstellt habe, als auch als PDF-Dateien.
+Neben dem Standard Rigg, als A Rigg bezeichnet, fahren ich das etwas größere A+ Rigg und das etwas kleinere B Rigg.</description>
+    </item>
+    
+    <item>
+      <title>Austausch der Fernsteuerung</title>
+      <link>https://ulzburger.github.io/rcmodelboats/dragonforce65/flysky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/rcmodelboats/dragonforce65/flysky/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
