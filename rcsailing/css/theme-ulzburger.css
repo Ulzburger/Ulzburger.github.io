@@ -71,7 +71,7 @@ a:hover {
 }
 #sidebar #header-wrapper {
     background: var(--MENU-HEADER-BG-color);
-    background-image: url('/images/Background.png');
+    background-image: url('/rcsailing/images/Background.png');
     background-size: 100%;
     color: var(--MENU-SEARCH-BOX-color);
     border-color: var(--MENU-HEADER-BORDER-color);
