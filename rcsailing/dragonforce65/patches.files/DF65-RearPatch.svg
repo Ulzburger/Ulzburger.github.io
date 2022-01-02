@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5cm"
+   height="11cm"
+   viewBox="0 0 50 110"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="DF65-RearPatch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="1.1122704"
+     inkscape:cx="504.82329"
+     inkscape:cy="207.68331"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g866"
+     units="cm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836"
+       units="cm"
+       spacingx="0.99999999"
+       spacingy="0.99999999" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1 Kopie Kopie Kopie"
+     inkscape:groupmode="layer"
+     id="g866"
+     style="display:inline">
+    <g
+       id="g856"
+       transform="translate(-40,-39.0003)"
+       style="stroke:#000000;stroke-opacity:1" />
+    <path
+       id="path858"
+       style="fill:#666666;stroke:#000000;stroke-width:0.502571;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 6.9998066,5.9998924 c -1.661999,0 -2.9998171,1.338334 -2.9998171,3.0003352 V 101.00029 c 0,1.662 1.3378181,2.99982 2.9998171,2.99982 H 42.999676 c 1.662002,0 3.000335,-1.33782 3.000335,-2.99982 V 9.0002275 c -2e-6,-1.6620011 -1.338333,-3.0003351 -3.000335,-3.0003351 z M 24.999741,64.500198 a 10.5,8.4999998 0 0 1 10.500135,8.49974 10.5,8.4999998 0 0 1 -10.500135,8.500255 10.5,8.4999998 0 0 1 -10.500134,-8.500255 10.5,8.4999998 0 0 1 10.500134,-8.49974 z" />
+    <g
+       id="g860"
+       transform="matrix(-1,0,0,1,160,-39.0003)"
+       style="stroke:#000000;stroke-opacity:1" />
+  </g>
+</svg>

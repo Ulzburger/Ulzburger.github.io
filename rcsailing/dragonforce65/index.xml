@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DragonForce 65 on Ulzburger Boats</title>
+    <link>https://ulzburger.github.io/rcsailing/dragonforce65/</link>
+    <description>Recent content in DragonForce 65 on Ulzburger Boats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://ulzburger.github.io/rcsailing/dragonforce65/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meine Boote</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/boats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/boats/</guid>
+      <description>Ich habe zur Zeit zwei DF65-Boote.
+Das eine ist weitgehend im Baukastenzustand, es ist mein &amp;ldquo;Baukastenboot&amp;rdquo;. Folgende Änderungen habe ich vorgenommen:
+ Der Empfänger wurde ausgetauscht, da ich eine SkyFly verwende. Die Original-Batterie-Halterung wird nicht eingesetzt, da ich einen Akku-Pack mir vier AAA-Zellen einsetze. Der Kiel hat an der Unterseite einen Patch erhalten, der die Befestigungsschraube abdeckt. Es wurden Nummern auf Rumpf und Segel angebracht. Auf dem Foto sieht man, dass ich hierbei aus Unwissenheit die Nummern falsch angebracht habe.</description>
+    </item>
+    
+    <item>
+      <title>Selbstgebaute Segelsätze</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/sails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/sails/</guid>
+      <description>Nach dem Regelwerk ist es zulässig Segel zu verwenden, die nicht vom Hersteller stammen. Ich habe mir für drei Segelsätze entsprechende Pläne erstellt und fahre diese auf meinem Zweitboot. Ich stelle hier die Pläne zu den Segeln zur Verfügung. Sowohl als SVG-Dateien, die ich mit Inkscape erstellt habe, als auch als PDF-Dateien.
+Neben dem Standard Rigg, als A Rigg bezeichnet, fahren ich das etwas größere A+ Rigg und das etwas kleinere B Rigg.</description>
+    </item>
+    
+    <item>
+      <title>Aufkleberset für den Rumpf</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/patches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/patches/</guid>
+      <description>Für mein Zweiboot habe ich mir überlegt wie ich es optisch gestalte. Es sollte sich auf jeden Fall auf dem Wasser sichtbar von den anderen Booten unterscheiden. Es gibt im Internet diverse Quellen für entsprechende Aufkleber-Sets. Manche sind wirklich beeindruckend, andere eher langweilig. Ich wollte jedenfalls etwas eigenes entwerfen. Nach vielen Versuchen habe ich schließlich ein paar Aufkleber kreiert, die mir nun gefallen.
+Für diejenigen, die im Besitz eines Schneideplotters sind und mit diesem Thema vertraut sind, teile ich hier meine Vorlagendateien für das Set:</description>
+    </item>
+    
+    <item>
+      <title>Austausch der Fernsteuerung</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/flysky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/flysky/</guid>
+      <description>Ich habe zunächst die zum Bausatz gehörige Fernsteuerung verwendet, bin aber dann auf eine FlySky-Fernsteuerung umgestiegen. Ich habe dazu ein paar Einstellungen am Sender vorgenommen.
+Richtung des Ruderausschlags Die Richtung des Ruderausschlags ist anzupassen. Hierzu wird Kanal 1 auf „Reverse“ gesetzt.
+Feinjustierung des Ruderausschlags Um kleine Ruderausschlage feinfühliger ansteuern zu können, wird die Ansteuerung vom Kanal 1 wie folgt verändert.
+Länge des Windenwegs Der Windenweg soll ca. 115mm betragen. Hierzu mmusste ich auf Kanal 3 der Endpunkt an beiden Enden jeweils auf 120% setzen.</description>
+    </item>
+    
+  </channel>
+</rss>
