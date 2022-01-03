@@ -33,7 +33,7 @@ Neben dem Standard Rigg, als A Rigg bezeichnet, fahren ich das etwas größere A
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ulzburger.github.io/rcsailing/dragonforce65/patches/</guid>
-      <description>Für mein Zweitboot habe ich mir überlegt wie ich es optisch gestalte. Es sollte sich auf jeden Fall auf dem Wasser sichtbar von den anderen Booten unterscheiden. Es gibt im Internet diverse Quellen für entsprechende Aufkleber-Sets. Manche sind wirklich beeindruckend, andere eher langweilig. Ich wollte jedenfalls etwas Eigenes entwerfen. Nach vielen Versuchen habe ich schließlich ein paar Aufkleber kreiert, die mir nun gefallen.
+      <description>Mein Zweitboot sollte sich auf dem Wasser deutlich von der Baukastenversion unterscheiden. Es gibt im Internet diverse Quellen für entsprechende Aufkleber-Sets. Manche sind wirklich beeindruckend, andere eher langweilig. Ich wollte jedenfalls etwas Eigenes entwerfen. Nach eingen Versuchen habe ich schließlich ein paar Aufkleber kreiert, die mir nun gefallen.
 Für diejenigen, die im Besitz eines Schneideplotters sind und mit diesem Thema vertraut sind, teile ich hier meine Vorlagendateien für das Set:</description>
     </item>
     
@@ -43,10 +43,9 @@ Für diejenigen, die im Besitz eines Schneideplotters sind und mit diesem Thema 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ulzburger.github.io/rcsailing/dragonforce65/flysky/</guid>
-      <description>Ich habe zunächst die zum Bausatz gehörige Fernsteuerung verwendet, bin aber dann auf eine FlySky-Fernsteuerung umgestiegen. Ich habe dazu ein paar Einstellungen am Sender vorgenommen.
+      <description>Ich habe zunächst die zum Bausatz mitgelieferte Fernsteuerung verwendet. Sie ist nicht schlecht, aber ich bin dann doch auf eine FlySky-Fernsteuerung umgestiegen. Zwei Gründe haben mich zu dem Wechsel veranlasst: Die FlySky bietet zum einen eine Info der Spannung an Bord der Bootes, zum anderen kann man einige nützliche Einstellungen vornehmen.
 Richtung des Ruderausschlags Die Richtung des Ruderausschlags ist anzupassen. Hierzu wird Kanal 1 auf „Reverse“ gesetzt.
-Feinjustierung des Ruderausschlags Um kleine Ruderausschlage feinfühliger ansteuern zu können, wird die Ansteuerung vom Kanal 1 wie folgt verändert.
-Länge des Windenwegs Der Windenweg soll ca. 115mm betragen. Hierzu habe ich auf Kanal 3 den Endpunkt an beiden Enden jeweils auf 120% setzen.</description>
+Feinjustierung des Ruderausschlags Um kleine Ruderausschlage feinfühliger ansteuern zu können, wird die Ansteuerung vom Kanal 1 wie folgt verändert.</description>
     </item>
     
   </channel>

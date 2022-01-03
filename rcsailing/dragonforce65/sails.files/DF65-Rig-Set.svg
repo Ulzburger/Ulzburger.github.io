@@ -739,10 +739,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35160185"
-     inkscape:cx="1133.3843"
+     inkscape:cx="1133.3842"
      inkscape:cy="1700.7874"
      inkscape:document-units="mm"
-     inkscape:current-layer="g13764"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="3440"
      inkscape:window-height="1369"
@@ -778,17 +778,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="DF65 A+ V2 Backbord"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
+    <path
+       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 561.16023,801.58861 c 0,0 -7.43806,6.19574 -7.438,16.86054 l 2.5e-4,43.60321 L 571,860 561.16023,801.58861"
+       id="path3681-9-5"
+       sodipodi:nodetypes="csccc"
+       inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:none;stroke:#cccccc;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 368.51979,25 308.55662,83.82527"
        id="path2384-3"
-       inkscape:connector-curvature="0" />
-    <path
-       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 561.43407,801.58861 c 0,0 -7.7119,6.19574 -7.71184,16.86054 l 2.5e-4,43.60321 L 571,860 561.16023,801.58861"
-       id="path3681-9-5"
-       sodipodi:nodetypes="csccc"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -813,12 +813,6 @@
        d="m 290,880 -0.86742,-30.00109 c 0,0 12.37696,-0.11839 13.56599,10.15337 l 2.29405,21.11543 z"
        id="path1956-0-4"
        sodipodi:nodetypes="ccscc"
-       inkscape:connector-curvature="0" />
-    <path
-       style="display:inline;fill:#666666;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 558.65771,786.733 c 0,0 -12.43559,7.79905 -12.4355,24.16447 l 3e-4,52.03382 L 571,860 Z"
-       id="path3655-6-4"
-       sodipodi:nodetypes="csccc"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1176,6 +1170,12 @@
        d="m 289.95345,879.93238 c 0,0 -6.03829,-198.01874 -6.03829,-441.02305 C 283.91516,293.42051 290.0329,11 290.0329,11"
        id="path1476-8-5"
        sodipodi:nodetypes="csc" />
+    <path
+       style="display:inline;fill:#666666;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 558.65771,786.733 c 0,0 -12.43559,7.79905 -12.4355,24.16447 l 3e-4,52.03382 L 571,860 Z"
+       id="path3655-6-4"
+       sodipodi:nodetypes="csccc"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1207,7 +1207,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:#666666;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 39.6111,801.63821 c 0,0 7.7119,6.19574 7.7118,16.86054 l -2e-4,43.60321 -17.2775,-2.05236 9.8397,-58.41139"
+       d="m 39.884967,801.63827 c 0,0 7.438033,6.19568 7.437933,16.86048 l -2e-4,43.60321 -17.2775,-2.05236 9.8397,-58.41139"
        id="path3681-9-5-7"
        sodipodi:nodetypes="csccc"
        inkscape:connector-curvature="0" />
@@ -2856,7 +2856,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="DF65 B V2 Steuerbord"
      inkscape:groupmode="layer"
      id="g13764"
