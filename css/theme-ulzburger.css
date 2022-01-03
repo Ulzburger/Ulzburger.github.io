@@ -103,3 +103,19 @@ a:hover {
 #sidebar hr {
     border-color: var(--MENU-SECTION-HR-color);
 }
+
+.my-youtube-class {
+    position: relative;
+    top: 0; 
+    left: 0; 
+    width: 500px;
+    height: 500px; 
+    border:0;
+}
+
+.my-youtube-class2 {
+    position: relative; 
+    padding-bottom: 40%; 
+    height: 0; 
+    overflow: hidden;
+}
