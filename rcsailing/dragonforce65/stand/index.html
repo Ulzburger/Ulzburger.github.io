@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/rcsailing/images/favicon.png" type="image/png">
 
-    <title>Schneideplotter :: Ulzburger Boats</title>
+    <title>Erweiterung des Bootsständers :: Ulzburger Boats</title>
 
     
     <link href="/rcsailing/css/nucleus.css?1641290264" rel="stylesheet">
@@ -36,7 +36,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/rcsailing/plottingsvg/">
+  <body class="" data-url="/rcsailing/dragonforce65/stand/">
     <nav id="sidebar" class="">
 
 
@@ -136,7 +136,7 @@
   
     
     <li data-nav-id="/rcsailing/dragonforce65/" title="DragonForce 65" class="dd-item 
-        
+        parent
         
         
         ">
@@ -246,7 +246,7 @@
  
   
     
-      <li data-nav-id="/rcsailing/dragonforce65/stand/" title="Erweiterung des Bootsständers" class="dd-item ">
+      <li data-nav-id="/rcsailing/dragonforce65/stand/" title="Erweiterung des Bootsständers" class="dd-item active">
         <a href="/rcsailing/dragonforce65/stand/">
         Erweiterung des Bootsständers
         
@@ -299,8 +299,8 @@
   
     
     <li data-nav-id="/rcsailing/plottingsvg/" title="Schneideplotter" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="/rcsailing/plottingsvg/">
@@ -386,7 +386,13 @@
             
           
           
-            <a href='/rcsailing/'>Start</a> > Schneideplotter
+            
+            
+          
+          
+            <a href='/rcsailing/'>Start</a> > <a href='/rcsailing/dragonforce65/'>DragonForce 65</a> > Erweiterung des Bootsständers
+          
+        
           
         
           
@@ -399,8 +405,8 @@
     <div class="wrapper">
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#was-ist-ein-schneideplotter">Was ist ein Schneideplotter?</a></li>
-    <li><a href="#plotten-von-svg-dateien-auf-silhouette-plottern">Plotten von SVG-Dateien auf Silhouette Plottern</a></li>
+    <li><a href="#wie-entwirft-man-solche-teile">Wie entwirft man solche Teile?</a></li>
+    <li><a href="#dokumente">Dokumente</a></li>
   </ul>
 </nav>
     </div>
@@ -418,27 +424,69 @@
           
             <h1>
               
-              Schneideplotter
+              Erweiterung des Bootsständers
             </h1>
           
 
         
 
 
+<p>Mit dem Erscheinen der Version 7 der DF65 bietet der Hersteller eine Erweiterug des Bootsständers an. Diese Teile sind in ähnlicher Form seit einiger Zeit auch schon als 3D-Druck-Vorlagen verfügbar. Mir haben diese Teile aber an einem Punkt nicht so recht gefallen, daher zeige ich hier meinen Entwurf.</p>
+<p><img src="/rcsailing/dragonforce65/stand/DF65_StandExtension_3DPrint.jpg?classes=shadow" alt="DF65_StandExtension_3DPrint"></p>
+<p><img src="/rcsailing/dragonforce65/stand/DF65_StandExtension_01.jpg?classes=shadow" alt="DF65_StandExtension_01"></p>
+<p><img src="/rcsailing/dragonforce65/stand/DF65_StandExtension_02.jpg?classes=shadow" alt="DF65_StandExtension_02"></p>
+<p>Dieses Bild zeigt den für mich entscheidenden Unterschied: Das Bauteil steht den Kielballast nicht im Weg.</p>
+<p><img src="/rcsailing/dragonforce65/stand/DF65_StandExtension_03.jpg?classes=shadow" alt="DF65_StandExtension_03"></p>
+<h2 id="wie-entwirft-man-solche-teile">Wie entwirft man solche Teile?</h2>
+<p>Hier meine Vorgehensweise in zwei Schritten.</p>
+<p>Schritt 1: Eine Zeichnung in Inkscape</p>
+<p><img src="/rcsailing/dragonforce65/stand/DF65_StandExtension_SVGPreview.png?classes=shadow" alt="DF65_StandExtension_SVGPreview"></p>
+<p>Schritt 1: Import der SVG-Datei in Tinkercad, dem Objekt eine geeignete Höhe geben und schließlich Export als STL-Datei.</p>
+<p><img src="/rcsailing/dragonforce65/stand/DF65_StandExtension_STLPreview.png?classes=shadow" alt="DF65_StandExtension_STLPreview"></p>
+<h2 id="dokumente">Dokumente</h2>
 
-	<h2 id="was-ist-ein-schneideplotter">Was ist ein Schneideplotter?</h2>
-<p>Wikipedia: &ldquo;Der Schneideplotter ist ein Plotter, bei dem ein Messer statt der Stifte eingesetzt wird. Dabei werden die Konturen der Vektorgrafiken in eine Beschriftungsfolie geschnitten, ohne das Trägerpapier (Plotterpapier) zu beschädigen.&rdquo;</p>
-<p>Der von mir verwendete Plotter: <a href="https://www.silhouetteamerica.com/featured-product/cameo">Silhouette Cameo</a></p>
-<p>Diesen Schneideplotter setze ich hauptsächlich zum Schneiden von Schriftzügen und Logos auf Folie ein. Bei der DF65 sind das dann die Segelnummern. Ferner kann man damit auch gut <em>Nummerntuch</em> schneiden, das ist ein selbstklebendes Dacrontuch, welches die Segelmacher für Segelnummern verwenden. Der Name <em>Nummerntuch</em> sagt es ja. Dieses Material bekommt man u.a. als Meterware im Drachenzubehörhandel. Bei den Segeln der DF65 plotte ich die Verstärkungen aus diesem Material.</p>
-<p><img src="/rcsailing/plottingsvg/images/Schneideplotter.jpg?classes=shadow" alt="Schneideplotter"></p>
-<h2 id="plotten-von-svg-dateien-auf-silhouette-plottern">Plotten von SVG-Dateien auf Silhouette Plottern</h2>
-<p>Die vom Hersteller Silhouette zu den Plottern gelieferte Software kann nur mit Tricks dazu gebracht werden SVG-Dateien zu plotten. Und dann werden beim Import der Daten die Vektorgrafiken häufig verfälscht. Dieser Umstand hat mich dazu bewogen, diese Software nicht mehr einzusetzen. Da ich meine Grafiken in der Regel als SVG-Dateien mit der Software Inkscape erstelle, nutze ich zum Übertragen der Grafiken zum Plotter die Inkscape Erweiterung <a href="https://github.com/fablabnbg/inkscape-silhouette"><em>inkscape-silhouette</em></a>.</p>
+<section class="attachments grey">
+	<label>
+		<i class="fas fa-paperclip" aria-hidden="true"></i>
+		Downloads
+	</label>
+	
+		
+	
+	<div class="attachments-files">
+	
+		
+		
+			
+				<li>
+					<a href="/rcsailing/dragonforce65/stand.files/DF65_StandExtension.stl" >
+						DF65_StandExtension.stl
+					</a>
+					(134 ko)
+				</li>
+			
+		
+	
+		
+		
+			
+				<li>
+					<a href="/rcsailing/dragonforce65/stand.files/DF65_StandExtension.svg" >
+						DF65_StandExtension.svg
+					</a>
+					(6 ko)
+				</li>
+			
+		
+	
+	<div>
+	
+</section>
 
 
 
 
-
-<footer class=" footline" >
+<footer class="footline">
 	
 </footer>
 
@@ -492,6 +540,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -504,6 +553,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -569,6 +621,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -579,22 +632,6 @@
                     
             
         
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
                     
             
         
@@ -604,6 +641,8 @@
             
                 
                     
+                        
+                        
                     
                 
                 
@@ -621,8 +660,21 @@
             
                 
                     
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
                         
-                        
+            
+            
+                
                     
                 
                 
@@ -670,3 +722,4 @@
 
   </body>
 </html>
+
