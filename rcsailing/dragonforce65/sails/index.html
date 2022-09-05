@@ -1,49 +1,141 @@
 <!DOCTYPE html>
-<html lang="de" class="js csstransforms3d">
+<html lang="de">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="generator" content="Hugo 0.90.1" />
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.101.0">
+    <meta name="generator" content="Relearn 5.1.2+tip">
     <meta name="description" content="Ulzburger Boats">
-<meta name="author" content="Birger Garbe">
-
-    <link rel="icon" href="/rcsailing/images/favicon.png" type="image/png">
-
+    <meta name="author" content="Birger Garbe">
     <title>Selbstgebaute Segelsätze :: Ulzburger Boats</title>
-
-    
-    <link href="/rcsailing/css/nucleus.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/fontawesome-all.min.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/hybrid.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/featherlight.min.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/perfect-scrollbar.min.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/auto-complete.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/atom-one-dark-reasonable.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/theme.css?1643790703" rel="stylesheet">
-    <link href="/rcsailing/css/hugo-theme.css?1643790703" rel="stylesheet">
-    
-    <link href="/rcsailing/css/theme-ulzburger.css?1643790703" rel="stylesheet">
-    
-    
-
-    <script src="/rcsailing/js/jquery-3.3.1.min.js?1643790703"></script>
-
-    <style>
-      :root #header + #content > #left > #rlblock_left{
-          display:none !important;
-      }
-      
-    </style>
-    
+    <link href="/rcsailing/images/favicon.png?1661761428" rel="icon" type="image/png">
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="/rcsailing/css/fontawesome-all.min.css?1661761428" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/rcsailing/css/fontawesome-all.min.css?1661761428" rel="stylesheet"></noscript>
+    <link href="/rcsailing/css/featherlight.min.css?1661761428" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/rcsailing/css/featherlight.min.css?1661761428" rel="stylesheet"></noscript>
+    <link href="/rcsailing/css/auto-complete.css?1661761428" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/rcsailing/css/auto-complete.css?1661761428" rel="stylesheet"></noscript>
+    <link href="/rcsailing/css/perfect-scrollbar.min.css?1661761428" rel="stylesheet">
+    <link href="/rcsailing/css/nucleus.css?1661761428" rel="stylesheet">
+    <link href="/rcsailing/css/fonts.css?1661761428" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/rcsailing/css/fonts.css?1661761428" rel="stylesheet"></noscript>
+    <link href="/rcsailing/css/theme.css?1661761428" rel="stylesheet">
+    <link href="/rcsailing/css/theme-ulzburger.css?1661761428" rel="stylesheet" id="variant-style">
+    <link href="/rcsailing/css/ie.css?1661761428" rel="stylesheet">
+    <link href="/rcsailing/css/variant.css?1661761428" rel="stylesheet">
+    <link href="/rcsailing/css/print.css?1661761428" rel="stylesheet" media="print">
+    <script src="/rcsailing/js/variant.js?1661761428"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      var index_url="/rcsailing/index.json";
+      var root_url="/";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'In Zwischenablage kopieren';
+      window.T_Copied_to_clipboard = 'In Zwischenablage kopiert!';
+      window.T_Copy_link_to_clipboard = 'Link in Zwischenablage kopieren';
+      window.T_Link_copied_to_clipboard = 'Link in Zwischenablage kopiert!';
+      // some further base stuff
+      var baseUriFull='https:\/\/ulzburger.github.io\/rcsailing/';
+      window.variants && variants.init( [ 'ulzburger' ] );
+    </script>
+    <script src="/rcsailing/js/jquery.min.js?1661761428" defer></script>
   </head>
-  <body class="" data-url="/rcsailing/dragonforce65/sails/">
-    <nav id="sidebar" class="">
+  <body class="mobile-support default" data-url="/rcsailing/dragonforce65/sails/">
+    <div id="body" class="default-animation">
+      <div id="sidebar-overlay"></div>
+      <div id="toc-overlay"></div>
+      <nav id="topbar" class="highlightable">
+        <div>
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" title='Menu (CTRL+ALT+m)'><i class="fas fa-bars fa-fw"></i></a>
+            </span>
+            <span id="toc-menu" title='Inhalt (CTRL+ALT+t)'><i class="fas fa-list-alt fa-fw"></i></span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <meta itemprop="itemListOrder" content="Descending" />
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="3" /><a itemprop="item" href="/rcsailing/"><span itemprop="name">Start</span></a> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="2" /><a itemprop="item" href="/rcsailing/dragonforce65/"><span itemprop="name">DragonForce 65</span></a> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/rcsailing/dragonforce65/sails/" aria-disabled="true"><span itemprop="name">Selbstgebaute Segelsätze</span></a></li>
+            </ol>
+          </div>
+          <div class="default-animation progress">
+            <div class="wrapper">
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#das-a-rigg">Das A+ Rigg</a></li>
+    <li><a href="#das-a-rigg-1">Das A Rigg</a></li>
+    <li><a href="#das-b-rigg">Das B Rigg</a></li>
+    <li><a href="#hinweise-zum-a-rigg">Hinweise zum A+ Rigg</a></li>
+    <li><a href="#dokumente">Dokumente</a></li>
+  </ul>
+</nav>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <div id="head-tags">
+          </div>
+          <article class="default">
+<h1>Selbstgebaute Segelsätze</h1>
+
+<p>Nach dem Regelwerk ist es zulässig Segel zu verwenden, die nicht vom Hersteller stammen. Ich habe mir für drei Segelsätze entsprechende Pläne erstellt und fahre diese auf meinem Zweitboot. Ich stelle hier die Pläne zu den Segeln zur Verfügung. Sowohl als SVG-Dateien, die ich mit Inkscape erstellt habe, als auch als PDF-Dateien.</p>
+<p>Neben dem Standard Rigg, als A Rigg bezeichnet, fahren ich das etwas größere A+ Rigg und das etwas kleinere B Rigg. Es gibt noch ein C Rigg, für das ich noch keine Verwendung gehabt hätte. Bei so viel Wind würde ich vermutlich auf das Segeln verzichten. Aber vielleicht ändere ich meine Meinung hierzu eines Tages.</p>
+<p><img src="DF65-RigSet.jpg?classes=shadow" alt="DF65-RigSet"></p>
+<h2 id="das-a-rigg">Das A+ Rigg</h2>
+<p>Dieses Rigg ist flächenmäßig etwas größer als das Standard-Rigg und liegt außerhalb der zulässigen Fläche für RG65-Boote. In gemischten Regatten, in denen DF65-Boote zusammen mit RG65-Booten fahren, ist dieses Rigg unzulässig. Dieses Rigg unterscheidet sich von den A, B und C Riggs dadurch, dass das Vorsegel oben an der Mastspitze montiert ist. Dadurch ist es nicht möglich dem Mast durch entsprechende Einstellungen von Vor- und Achterliek eine Krümmung zu geben. Das Achterliek wird in der Regel mit sehr geringer Spannung eingestellt.</p>
+<p><img src="DF65-A+.png?classes=shadow" alt="A+ Rigg"></p>
+<h2 id="das-a-rigg-1">Das A Rigg</h2>
+<p>Hier gibt es eine Besonderheit bzgl. der im Regelwerk angegeben zulässigen Abmessungen und den Abmessungen der Hersteller-Segel. Das Hauptsegel im A Rigg des Herstellers ist etwas zu breit, da man bei der Erstellung des Segels, die Maßangaben des Regelwerks falsch interpretiert hat. Ich habe mich dazu mit Tim Long ausgetauscht. Fazit: Das ist leider so, kann man nicht ändern. Somit ist mein Segelplan zum A-Rigg keine 1:1 Kopie des Herstellersegels, sondern entspricht den Vorgaben im Regelwerk.</p>
+<p><img src="DF65-A.png?classes=shadow" alt="A Rigg"></p>
+<h2 id="das-b-rigg">Das B Rigg</h2>
+<p>Dieses Rigg ist flächenmäßig etwas kleiner als das Standard-Rigg und liegt innerhalb der zulässigen Fläche für RG65-Boote.</p>
+<p><img src="DF65-B.png?classes=shadow" alt="B Rigg"></p>
+<h2 id="hinweise-zum-a-rigg">Hinweise zum A+ Rigg</h2>
+<p>Die Position der Schnur auf dem Fockbaum wird in vielen Anleitungen zum Aufbau des A+ Riggs leider nicht angegeben. Bei mir sind es 72mm. In einer Anleitungen habe ich auch den Wert 73mm gefunden.</p>
+<p><img src="DF65-A+JibBoom.jpg?classes=shadow" alt="DF65-A+JibBoom"></p>
+<p>Das Vorsegel wird an einem Ring befestigt, der wiederum am der vorderen Ösen am Mastkopf befestigt wird. Die Anleitung sieht hier eine kurze Schnur vor. Ich habe mich hier für den Einsatz eines Hakens entschieden. Es ist der gleiche Haken, der auch zum Befestigen er Schoten am Windenseil verwendet wird. Diese Haken sind im Anglerbedarf erhältlich.</p>
+<p><img src="DF65-A+Top.jpg?classes=shadow" alt="DF65-A+Top"></p>
+<h2 id="dokumente">Dokumente</h2>
+<p>Hinweis: In der Zip-Datei &ldquo;DF65-Sails&rdquo; sind alle Dateien zusammengefasst enthalten.</p>
+
+<div class="box attachments cstyle grey">
+  <div class="box-label"><i class="fa-fw fas fa-paperclip"></i> Downloads</div>
+  <ul class="box-content attachments-files">
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A_497_Backbord.pdf">DF65_A_497_Backbord.pdf</a> (25 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A_497_Steuerbord.pdf">DF65_A_497_Steuerbord.pdf</a> (24 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A_97_Backbord.pdf">DF65_A_97_Backbord.pdf</a> (22 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A_97_Steuerbord.pdf">DF65_A_97_Steuerbord.pdf</a> (22 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A&#43;_497_Backbord.pdf">DF65_A&#43;_497_Backbord.pdf</a> (24 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A&#43;_497_Steuerbord.pdf">DF65_A&#43;_497_Steuerbord.pdf</a> (23 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A&#43;_97_Backbord.pdf">DF65_A&#43;_97_Backbord.pdf</a> (22 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A&#43;_97_Steuerbord.pdf">DF65_A&#43;_97_Steuerbord.pdf</a> (21 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_A&#43;ABC_Rigs.svg">DF65_A&#43;ABC_Rigs.svg</a> (712 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_B_497_Backbord.pdf">DF65_B_497_Backbord.pdf</a> (24 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_B_497_Steuerbord.pdf">DF65_B_497_Steuerbord.pdf</a> (24 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_B_97_Backbord.pdf">DF65_B_97_Backbord.pdf</a> (22 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_B_97_Steuerbord.pdf">DF65_B_97_Steuerbord.pdf</a> (22 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_C_97_Backbord.pdf">DF65_C_97_Backbord.pdf</a> (22 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65_C_97_Steuerbord.pdf">DF65_C_97_Steuerbord.pdf</a> (22 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65-Logo.svg">DF65-Logo.svg</a> (5 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-1.svg">DF65-Patches-1.svg</a> (7 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-A.svg">DF65-Patches-A.svg</a> (6 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-A&#43;.svg">DF65-Patches-A&#43;.svg</a> (6 KB)</li>
+    <li><a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-B.svg">DF65-Patches-B.svg</a> (6 KB)</li>
+  </ul>
+</div>
 
 
-
-  <div id="header-wrapper">
-    <div id="header">
-      <a id="logo" href="https://ulzburger.github.io/rcsailing">
+            <footer class="footline">
+            </footer>
+          </article>
+        </div>
+      </main>
+    </div>
+    <aside id="sidebar" class="default-animation">
+      <div id="header-wrapper" class="default-animation">
+        <div id="header" class="default-animation">
+<a id="logo" href="https://ulzburger.github.io/rcsailing">
   <svg id="kite-logo" style="width:100%; height:100%;" viewBox="0 0 960 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
     <path
     style="stroke-width:1.32939637;fill:#FFF"
@@ -78,862 +170,81 @@
 </svg>
 </a>
 
-    </div>
-    
-        <div class="searchbox">
-    <label for="search-by"><i class="fas fa-search"></i></label>
-    <input data-search-input id="search-by" type="search" placeholder="Suchen...">
-    <span data-search-clear=""><i class="fas fa-times"></i></span>
-</div>
-
-<script type="text/javascript" src="/rcsailing/js/lunr.min.js?1643790703"></script>
-<script type="text/javascript" src="/rcsailing/js/auto-complete.js?1643790703"></script>
-<script type="text/javascript">
-    
-        var baseurl = "https:\/\/ulzburger.github.io\/rcsailing";
-    
-</script>
-<script type="text/javascript" src="/rcsailing/js/search.js?1643790703"></script>
-
-    
-  </div>
-
-    <div class="highlightable">
-    <ul class="topics">
-
-        
-          
-          
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/rcsailing/news/" title="Aktuelles" class="dd-item 
-        
-        
-        
-        ">
-      <a href="/rcsailing/news/">
-          Aktuelles
-          
-      </a>
-      
-              
-    </li>
-  
- 
-
-          
-          
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/rcsailing/dragonforce65/" title="DragonForce 65" class="dd-item 
-        parent
-        
-        
-        ">
-      <a href="/rcsailing/dragonforce65/">
-          DragonForce 65
-          
-      </a>
-      
-      
-        <ul>
-          
-          
-          
-          
-        
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/rcsailing/dragonforce65/boats/" title="Meine Boote" class="dd-item ">
-        <a href="/rcsailing/dragonforce65/boats/">
-        Meine Boote
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/rcsailing/dragonforce65/sails/" title="Selbstgebaute Segelsätze" class="dd-item active">
-        <a href="/rcsailing/dragonforce65/sails/">
-        Selbstgebaute Segelsätze
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/rcsailing/dragonforce65/patches/" title="Aufkleberset für den Rumpf" class="dd-item ">
-        <a href="/rcsailing/dragonforce65/patches/">
-        Aufkleberset für den Rumpf
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/rcsailing/dragonforce65/flysky/" title="Austausch der Fernsteuerung" class="dd-item ">
-        <a href="/rcsailing/dragonforce65/flysky/">
-        Austausch der Fernsteuerung
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/rcsailing/dragonforce65/battery/" title="Gedruckte Batterie Box" class="dd-item ">
-        <a href="/rcsailing/dragonforce65/battery/">
-        Gedruckte Batterie Box
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
-
-
- 
-  
-    
-      <li data-nav-id="/rcsailing/dragonforce65/stand/" title="Erweiterung des Bootsständers" class="dd-item ">
-        <a href="/rcsailing/dragonforce65/stand/">
-        Erweiterung des Bootsständers
-        
-        </a>
-    </li>
-     
-  
- 
-
-            
-          
-        
+        </div>
+        <div class="searchbox default-animation">
+          <label for="search-by"><i class="fas fa-search"></i></label>
+          <input data-search-input id="search-by" type="search" placeholder="Suchen...">
+          <span data-search-clear=""><i class="fas fa-times"></i></span>
+        </div>
+        <script>
+          var contentLangs=['de'];
+        </script>
+        <script src="/rcsailing/js/auto-complete.js?1661761428" defer></script>
+        <script src="/rcsailing/js/lunr.min.js?1661761428" defer></script>
+        <script src="/rcsailing/js/lunr.stemmer.support.min.js?1661761428" defer></script>
+        <script src="/rcsailing/js/lunr.multi.min.js?1661761428" defer></script>
+        <script src="/rcsailing/js/lunr.de.min.js?1661761428" defer></script>
+        <script src="/rcsailing/js/search.js?1661761428" defer></script>
+      </div>
+      <div id="content-wrapper" class="highlightable">
+        <ul class="topics">
+          <li data-nav-id="/rcsailing/news/" title="Aktuelles" class="dd-item"><a href="/rcsailing/news/">Aktuelles</a></li>
+          <li data-nav-id="/rcsailing/dragonforce65/" title="DragonForce 65" class="dd-item parent"><input type="checkbox" id="section-fe591de93275babbeb258476c62a2a84" class="toggle" checked/><label for="section-fe591de93275babbeb258476c62a2a84" ></label><a href="/rcsailing/dragonforce65/">DragonForce 65</a><ul>
+          <li data-nav-id="/rcsailing/dragonforce65/boats/boats/" title="Meine Boote" class="dd-item"><a href="/rcsailing/dragonforce65/boats/boats/">Meine Boote</a></li>
+          <li data-nav-id="/rcsailing/dragonforce65/sails/" title="Selbstgebaute Segelsätze" class="dd-item active"><a href="/rcsailing/dragonforce65/sails/">Selbstgebaute Segelsätze</a></li>
+          <li data-nav-id="/rcsailing/dragonforce65/patches/patches/" title="Aufkleberset für den Rumpf" class="dd-item"><a href="/rcsailing/dragonforce65/patches/patches/">Aufkleberset für den Rumpf</a></li>
+          <li data-nav-id="/rcsailing/dragonforce65/flysky/flysky/" title="Austausch der Fernsteuerung" class="dd-item"><a href="/rcsailing/dragonforce65/flysky/flysky/">Austausch der Fernsteuerung</a></li>
+          <li data-nav-id="/rcsailing/dragonforce65/battery/battery/" title="Gedruckte Batterie Box" class="dd-item"><a href="/rcsailing/dragonforce65/battery/battery/">Gedruckte Batterie Box</a></li>
+          <li data-nav-id="/rcsailing/dragonforce65/stand/" title="Erweiterung des Bootsständers" class="dd-item"><a href="/rcsailing/dragonforce65/stand/">Erweiterung des Bootsständers</a></li></ul></li>
+          <li data-nav-id="/rcsailing/dragonflite95/" title="DragonFlite 95" class="dd-item"><a href="/rcsailing/dragonflite95/">DragonFlite 95</a></li>
+          <li data-nav-id="/rcsailing/bullseye/" title="Bullseye" class="dd-item"><a href="/rcsailing/bullseye/">Bullseye</a></li>
+          <li data-nav-id="/rcsailing/paul_denker/" title="Paul Denker" class="dd-item"><a href="/rcsailing/paul_denker/">Paul Denker</a></li>
+          <li data-nav-id="/rcsailing/plottingsvg/" title="Schneideplotter" class="dd-item"><a href="/rcsailing/plottingsvg/">Schneideplotter</a></li>
+          <li data-nav-id="/rcsailing/contact/" title="Kontakt" class="dd-item"><a href="/rcsailing/contact/">Kontakt</a></li>
         </ul>
-              
-    </li>
-  
- 
-
-          
-          
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/rcsailing/dragonflite95/" title="DragonFlite 95" class="dd-item 
-        
-        
-        
-        ">
-      <a href="/rcsailing/dragonflite95/">
-          DragonFlite 95
-          
-      </a>
-      
-              
-    </li>
-  
- 
-
-          
-          
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/rcsailing/plottingsvg/" title="Schneideplotter" class="dd-item 
-        
-        
-        
-        ">
-      <a href="/rcsailing/plottingsvg/">
-          Schneideplotter
-          
-      </a>
-      
-              
-    </li>
-  
- 
-
-          
-          
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/rcsailing/contact/" title="Kontakt" class="dd-item 
-        
-        
-        
-        ">
-      <a href="/rcsailing/contact/">
-          Kontakt
-          
-      </a>
-      
-              
-    </li>
-  
- 
-
-          
-         
-    </ul>
-
-    
-    
-
-    
-    <section id="footer">
-      <center>
+        <div class="footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter"></div>
+        <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter"/>
+        <div id="prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks">
+          <ul>
+            <li id="select-language-container" class="footerLangSwitch">
+              <a class="padding select-container">
+                <i class="fas fa-language fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="select-style">
+                  <select id="select-language" onchange="location = baseUri + this.value;">
+                  </select>
+                </div>
+                <div class="select-clear"></div>
+              </a>
+            </li>
+            <li id="select-variant-container" class="footerVariantSwitch">
+              <a class="padding select-container">
+                <i class="fas fa-paint-brush fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="select-style">
+                  <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
+                    <option id="ulzburger" value="ulzburger" selected>Ulzburger</option>
+                  </select>
+                </div>
+                <div class="select-clear"></div>
+              </a>
+              <script>window.variants && variants.markSelectedVariant();</script>
+            </li>
+            <li class="footerVisitedLinks"><a class="padding" onclick="clearHistory();"><i class="fas fa-history fa-fw"></i> Verlauf löschen</a></li>
+          </ul>
+        </div>
+        <div id="footer" class="footerFooter showFooter"><center>
     <p>Erstellt mit <a href="https://gohugo.io/">Hugo</a> und <a href="https://themes.gohugo.io/hugo-theme-learn/">Theme Learn</a></p>
 </center>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-    </section>
-  </div>
-</nav>
-
-
-
-
-        <section id="body">
-        <div id="overlay"></div>
-        <div class="padding highlightable">
-              
-              <div>
-                <div id="top-bar">
-                
-                
-                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <span id="sidebar-toggle-span">
-                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
-                          <i class="fas fa-bars"></i>
-                        </a>
-                    </span>
-                  
-                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
-                  
-                  <span class="links">
-                 
-                 
-                    
-          
-          
-            
-            
-          
-          
-            
-            
-          
-          
-            <a href='/rcsailing/'>Start</a> > <a href='/rcsailing/dragonforce65/'>DragonForce 65</a> > Selbstgebaute Segelsätze
-          
-        
-          
-        
-          
-        
-                 
-                  </span>
-                </div>
-                
-                    <div class="progress">
-    <div class="wrapper">
-<nav id="TableOfContents">
-  <ul>
-    <li><a href="#das-a-rigg">Das A+ Rigg</a></li>
-    <li><a href="#das-a-rigg-1">Das A Rigg</a></li>
-    <li><a href="#das-b-rigg">Das B Rigg</a></li>
-    <li><a href="#hinweise-zum-a-rigg">Hinweise zum A+ Rigg</a></li>
-    <li><a href="#dokumente">Dokumente</a></li>
-  </ul>
-</nav>
-    </div>
-</div>
-
-                
-              </div>
-            </div>
-            
-        <div id="head-tags">
-        
         </div>
-        
-        <div id="body-inner">
-          
-            <h1>
-              
-              Selbstgebaute Segelsätze
-            </h1>
-          
-
-        
-
-
-<p>Nach dem Regelwerk ist es zulässig Segel zu verwenden, die nicht vom Hersteller stammen. Ich habe mir für drei Segelsätze entsprechende Pläne erstellt und fahre diese auf meinem Zweitboot. Ich stelle hier die Pläne zu den Segeln zur Verfügung. Sowohl als SVG-Dateien, die ich mit Inkscape erstellt habe, als auch als PDF-Dateien.</p>
-<p>Neben dem Standard Rigg, als A Rigg bezeichnet, fahren ich das etwas größere A+ Rigg und das etwas kleinere B Rigg. Es gibt noch ein C Rigg, für das ich noch keine Verwendung gehabt hätte. Bei so viel Wind würde ich vermutlich auf das Segeln verzichten. Aber vielleicht ändere ich meine Meinung hierzu eines Tages.</p>
-<p><img src="DF65-RigSet.jpg?classes=shadow" alt="DF65-RigSet"></p>
-<h2 id="das-a-rigg">Das A+ Rigg</h2>
-<p>Dieses Rigg ist flächenmäßig etwas größer als das Standard-Rigg und liegt außerhalb der zulässigen Fläche für RG65-Boote. In gemischten Regatten, in denen DF65-Boote zusammen mit RG65-Booten fahren, ist dieses Rigg unzulässig. Dieses Rigg unterscheidet sich von den A, B und C Riggs dadurch, dass das Vorsegel oben an der Mastspitze montiert ist. Dadurch ist es nicht möglich dem Mast durch entsprechende Einstellungen von Vor- und Achterliek eine Krümmung zu geben. Das Achterliek wird in der Regel mit sehr geringer Spannung eingestellt.</p>
-<p><img src="DF65-A+.png?classes=shadow" alt="A+ Rigg"></p>
-<h2 id="das-a-rigg-1">Das A Rigg</h2>
-<p>Hier gibt es eine Besonderheit bzgl. der im Regelwerk angegeben zulässigen Abmessungen und den Abmessungen der Hersteller-Segel. Das Hauptsegel im A Rigg des Herstellers ist etwas zu breit, da man bei der Erstellung des Segels, die Maßangaben des Regelwerks falsch interpretiert hat. Ich habe mich dazu mit Tim Long ausgetauscht. Fazit: Das ist leider so, kann man nicht ändern. Somit ist mein Segelplan zum A-Rigg keine 1:1 Kopie des Herstellersegels, sondern entspricht den Vorgaben im Regelwerk.</p>
-<p><img src="DF65-A.png?classes=shadow" alt="A Rigg"></p>
-<h2 id="das-b-rigg">Das B Rigg</h2>
-<p>Dieses Rigg ist flächenmäßig etwas kleiner als das Standard-Rigg und liegt innerhalb der zulässigen Fläche für RG65-Boote.</p>
-<p><img src="DF65-B.png?classes=shadow" alt="B Rigg"></p>
-<h2 id="hinweise-zum-a-rigg">Hinweise zum A+ Rigg</h2>
-<p>Die Position der Schnur auf dem Fockbaum wird in vielen Anleitungen zum Aufbau des A+ Riggs leider nicht angegeben. Bei mir sind es 72mm. In einer Anleitungen habe ich auch den Wert 73mm gefunden.</p>
-<p><img src="DF65-A+JibBoom.jpg?classes=shadow" alt="DF65-A+JibBoom"></p>
-<p>Das Vorsegel wird an einem Ring befestigt, der wiederum am der vorderen Ösen am Mastkopf befestigt wird. Die Anleitung sieht hier eine kurze Schnur vor. Ich habe mich hier für den Einsatz eines Hakens entschieden. Es ist der gleiche Haken, der auch zum Befestigen er Schoten am Windenseil verwendet wird. Diese Haken sind im Anglerbedarf erhältlich.</p>
-<p><img src="DF65-A+Top.jpg?classes=shadow" alt="DF65-A+Top"></p>
-<h2 id="dokumente">Dokumente</h2>
-<p>Hinweis: In der Zip-Datei &ldquo;DF65-Sails&rdquo; sind alle Dateien zusammengefasst enthalten.</p>
-
-<section class="attachments grey">
-	<label>
-		<i class="fas fa-paperclip" aria-hidden="true"></i>
-		Downloads
-	</label>
-	
-		
-	
-	<div class="attachments-files">
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-A&#43;-Backbord.pdf" >
-						DF65-A&#43;-Backbord.pdf
-					</a>
-					(22 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-A&#43;-Steuerbord.pdf" >
-						DF65-A&#43;-Steuerbord.pdf
-					</a>
-					(21 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-A-Backbord.pdf" >
-						DF65-A-Backbord.pdf
-					</a>
-					(22 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-A-Steuerbord.pdf" >
-						DF65-A-Steuerbord.pdf
-					</a>
-					(21 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-B-Backbord.pdf" >
-						DF65-B-Backbord.pdf
-					</a>
-					(21 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-B-Steuerbord.pdf" >
-						DF65-B-Steuerbord.pdf
-					</a>
-					(21 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-GER.svg" >
-						DF65-GER.svg
-					</a>
-					(7 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Logo.svg" >
-						DF65-Logo.svg
-					</a>
-					(5 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Numbers.svg" >
-						DF65-Numbers.svg
-					</a>
-					(10 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-1.svg" >
-						DF65-Patches-1.svg
-					</a>
-					(7 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-A&#43;.svg" >
-						DF65-Patches-A&#43;.svg
-					</a>
-					(6 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-A.svg" >
-						DF65-Patches-A.svg
-					</a>
-					(6 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Patches-B.svg" >
-						DF65-Patches-B.svg
-					</a>
-					(6 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Rig-Set.svg" >
-						DF65-Rig-Set.svg
-					</a>
-					(229 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DF65-Sails.zip" >
-						DF65-Sails.zip
-					</a>
-					(180 ko)
-				</li>
-			
-		
-	
-		
-		
-			
-				<li>
-					<a href="/rcsailing/dragonforce65/sails.files/DIN1451Engschrift%20Roman.ttf" >
-						DIN1451Engschrift Roman.ttf
-					</a>
-					(39 ko)
-				</li>
-			
-		
-	
-	<div>
-	
-</section>
-
-
-
-
-<footer class="footline">
-	
-</footer>
-
-        
-        </div> 
-        
-
       </div>
-
-    <div id="navigation">
-        
-        
-        
-        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-        
-        
-
-
-	 
-	 
-    </div>
-
-    </section>
-    
-    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
-      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
-    </div>
-    <script src="/rcsailing/js/clipboard.min.js?1643790703"></script>
-    <script src="/rcsailing/js/perfect-scrollbar.min.js?1643790703"></script>
-    <script src="/rcsailing/js/perfect-scrollbar.jquery.min.js?1643790703"></script>
-    <script src="/rcsailing/js/jquery.sticky.js?1643790703"></script>
-    <script src="/rcsailing/js/featherlight.min.js?1643790703"></script>
-    <script src="/rcsailing/js/highlight.pack.js?1643790703"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/rcsailing/js/modernizr.custom-3.6.0.js?1643790703"></script>
-    <script src="/rcsailing/js/learn.js?1643790703"></script>
-    <script src="/rcsailing/js/hugo-learn.js?1643790703"></script>
-
-    <link href="/rcsailing/mermaid/mermaid.css?1643790703" rel="stylesheet" />
-    <script src="/rcsailing/mermaid/mermaid.js?1643790703"></script>
-    <script>
-        mermaid.initialize({ startOnLoad: true });
-    </script>
-    
-
+    </aside>
+    <script src="/rcsailing/js/clipboard.min.js?1661761428" defer></script>
+    <script src="/rcsailing/js/perfect-scrollbar.min.js?1661761428" defer></script>
+    <script src="/rcsailing/js/featherlight.min.js?1661761428" defer></script>
+    <script src="/rcsailing/js/theme.js?1661761428" defer></script>
   </body>
 </html>
-

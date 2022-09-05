@@ -1,33 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ulzburger.github.io/rcsailing/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/rcsailing/news/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/rcsailing/dragonforce65/</loc>
-  </url><url>
-    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/boats/</loc>
-  </url><url>
+  </url>
+  <url>
+    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/boats/boats/</loc>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/rcsailing/dragonflite95/</loc>
-  </url><url>
-    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/sails/</loc>
-  </url><url>
-    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/patches/</loc>
-  </url><url>
+  </url>
+  <url>
+    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/sails/sails/</loc>
+  </url>
+  <url>
+    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/patches/patches/</loc>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/rcsailing/plottingsvg/</loc>
-  </url><url>
-    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/flysky/</loc>
-  </url><url>
-    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/battery/</loc>
-  </url><url>
-    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/stand/</loc>
-  </url><url>
+  </url>
+  <url>
+    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/flysky/flysky/</loc>
+  </url>
+  <url>
+    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/batterybox/batterybox/</loc>
+  </url>
+  <url>
+    <loc>https://ulzburger.github.io/rcsailing/dragonforce65/stand/stand/</loc>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/rcsailing/contact/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/rcsailing/categories/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/rcsailing/tags/</loc>
   </url>
 </urlset>

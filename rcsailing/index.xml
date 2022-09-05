@@ -7,66 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language><atom:link href="https://ulzburger.github.io/rcsailing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meine Boote</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonforce65/boats/</link>
+      <title>Aktuelles</title>
+      <link>https://ulzburger.github.io/rcsailing/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/boats/</guid>
-      <description>Ich habe zur Zeit zwei DF65-Boote.
-Das eine ist weitgehend im Baukastenzustand, es ist mein &amp;ldquo;Baukastenboot&amp;rdquo;. Folgende Änderungen habe ich vorgenommen:
- Der Empfänger wurde ausgetauscht, da ich eine SkyFly verwende. Die Original-Batterie-Halterung wird nicht eingesetzt, da ich einen Akku-Pack mir vier AAA-Zellen einsetze. Der Kiel hat an der Unterseite einen Patch erhalten, der die Befestigungsschraube abdeckt. Es wurden Nummern auf Rumpf und Segel angebracht. Auf dem Foto sieht man, dass ich hierbei aus Unwissenheit die Nummern falsch angebracht habe.</description>
+      <guid>https://ulzburger.github.io/rcsailing/news/</guid>
+      <description>2022, September Es haben sich inzwischen einige Veränderungen und Ergäzungen ergeben, also ist ein Update fällig.
+DF65: Ein Boot ist dazugekommen und ein Boot wurde neu dekoriert. Die Aufkleber für den Rumpf wurden nach den praktischen Erfahrungen ein wenig angepasst. Bullseye: Ich habe diesen schönen Baukasten angefangen und möchte meine Erfahrungen während des Bauens hier dokumentieren. Paul Denker: Ich konnte einen alten ungebauten Baukasten dieses Modells erwerben. Ein Modell, das ich als Jungendlicher gerne gehabt hätte.</description>
     </item>
-    
     <item>
-      <title>Selbstgebaute Segelsätze</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonforce65/sails/</link>
+      <title>DragonForce 65</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/sails/</guid>
-      <description>Nach dem Regelwerk ist es zulässig Segel zu verwenden, die nicht vom Hersteller stammen. Ich habe mir für drei Segelsätze entsprechende Pläne erstellt und fahre diese auf meinem Zweitboot. Ich stelle hier die Pläne zu den Segeln zur Verfügung. Sowohl als SVG-Dateien, die ich mit Inkscape erstellt habe, als auch als PDF-Dateien.
-Neben dem Standard Rigg, als A Rigg bezeichnet, fahren ich das etwas größere A+ Rigg und das etwas kleinere B Rigg.</description>
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/</guid>
+      <description>Allgemeine Infos Die DragonForce 65 (DF65) ist ein 65cm langes Modellsegelboot, dass den Regeln der RG65-Klasse entspricht. Ausnahme ist das A+ Rigg, dass für ein RG65-Boot eine zu große Fläche besitzt. Die DF65-Boote sind allerdings den üblichen RG65-Booten unterlegen. RG65-Boote sind leichter und fahren in der Regel ein Swing-Rig, was ihnen in der Summe einen nicht unerheblichen Vorteil verschafft. Ein wettbewerbsfähiges RG65-Boot baut man sich entweder selbst oder man kauft es bei Hobbyisten, die es in Kleinserien erstellen.</description>
     </item>
-    
     <item>
-      <title>Aufkleberset für den Rumpf</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonforce65/patches/</link>
+      <title>DragonFlite 95</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonflite95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/patches/</guid>
-      <description>Mein Zweitboot sollte sich auf dem Wasser deutlich von der Baukastenversion unterscheiden. Es gibt im Internet diverse Quellen für entsprechende Aufkleber-Sets. Manche sind wirklich beeindruckend, andere eher langweilig. Ich wollte jedenfalls etwas Eigenes entwerfen. Nach eingen Versuchen habe ich schließlich ein paar Aufkleber kreiert, die mir nun gefallen.
-Für diejenigen, die im Besitz eines Schneideplotters sind und mit diesem Thema vertraut sind, teile ich hier meine Vorlagendateien für das Set:</description>
+      <guid>https://ulzburger.github.io/rcsailing/dragonflite95/</guid>
+      <description>Ich besitze seit kurzem ein DF95-Boot. Sobald ich mich etwas intensiver damit beschäftigt habe, werde ich sicherlich auch hierzu ein paar Informationen zusammentragen.</description>
     </item>
-    
     <item>
-      <title>Austausch der Fernsteuerung</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonforce65/flysky/</link>
+      <title>Schneideplotter</title>
+      <link>https://ulzburger.github.io/rcsailing/plottingsvg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/flysky/</guid>
-      <description>Ich habe zunächst die zum Bausatz mitgelieferte Fernsteuerung verwendet. Sie ist nicht schlecht, aber ich bin dann doch auf eine FlySky-Fernsteuerung umgestiegen. Zwei Gründe haben mich zu dem Wechsel veranlasst: Die FlySky bietet zum einen eine Info der Spannung an Bord der Bootes, zum anderen kann man einige nützliche Einstellungen vornehmen.
-Richtung des Ruderausschlags Die Richtung des Ruderausschlags ist anzupassen. Hierzu wird Kanal 1 auf „Reverse“ gesetzt.
-Feinjustierung des Ruderausschlags Um kleine Ruderausschlage feinfühliger ansteuern zu können, wird die Ansteuerung vom Kanal 1 wie folgt verändert.</description>
+      <guid>https://ulzburger.github.io/rcsailing/plottingsvg/</guid>
+      <description>Was ist ein Schneideplotter? Wikipedia: &amp;ldquo;Der Schneideplotter ist ein Plotter, bei dem ein Messer statt der Stifte eingesetzt wird. Dabei werden die Konturen der Vektorgrafiken in eine Beschriftungsfolie geschnitten, ohne das Trägerpapier (Plotterpapier) zu beschädigen.&amp;rdquo;
+Der von mir verwendete Plotter: Silhouette Cameo
+Diesen Schneideplotter setze ich hauptsächlich zum Schneiden von Schriftzügen und Logos auf Folie ein. Bei der DF65 sind das dann die Segelnummern. Ferner kann man damit auch gut Nummerntuch schneiden, das ist ein selbstklebendes Dacrontuch, welches die Segelmacher für Segelnummern verwenden.</description>
     </item>
-    
     <item>
-      <title>Gedruckte Batterie Box</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonforce65/battery/</link>
+      <title>Kontakt</title>
+      <link>https://ulzburger.github.io/rcsailing/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/battery/</guid>
-      <description>Die mitgelieferte Batterie Box darf durch einen Akku ausgewechselt werden. Dieser soll mindesten 45g wiegen. Ich verwende einen Akku-Pack mit vier AAA Zellen (50g). Dieser Akku darf entweder am Servo-Träger mitgeführt oder alternativ mit Klettband an der Kiel Box befestigt werden. Ich habe mir für diesen Akku eine kleine Box (5g) gedruckt, die mit Klettband an der Kielbox befestig wird und in die der Akku eingesteckt werden kann. Hiermit wollte ich einen unkomplizierten Akku-Tausch ermöglichen und den Akku vor in den Rumpf eindrigendes Wasser schützen.</description>
+      <guid>https://ulzburger.github.io/rcsailing/contact/</guid>
+      <description>Birger Garbe
+E-Mail: birger.garbe@gmail.com</description>
     </item>
-    
-    <item>
-      <title>Erweiterung des Bootsständers</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonforce65/stand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/stand/</guid>
-      <description>Mit dem Erscheinen der Version 7 der DF65 bietet der Hersteller eine Erweiterug des Bootsständers an. Diese Teile sind in ähnlicher Form seit einiger Zeit auch schon als 3D-Druck-Vorlagen verfügbar. Mir haben diese Teile aber an einem Punkt nicht so recht gefallen, daher zeige ich hier meine Entwürfe.
-erste Version Mein erster Entwurf war noch sehr einfach. Es war mein erstes 3D-Projekt.
-Dieses Bild zeigt den für mich entscheidenden Unterschied: Das Bauteil steht dem Kielballast nicht im Weg.</description>
-    </item>
-    
   </channel>
 </rss>
