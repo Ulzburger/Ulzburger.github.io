@@ -13,7 +13,7 @@
       <guid>https://ulzburger.github.io/rcsailing/dragonforce65/boats/boats/</guid>
       <description>Ich habe zur Zeit zwei DF65-Boote.
 Boot 1 Im Vergleich zum Baukastenzustand wurden Änderungen vorgenommen:
-Der Empfänger wurde ausgetauscht, da ich eine SkyFly verwende. Die Original-Batterie-Halterung wird nicht eingesetzt, da ich einen Akku-Pack mir vier AAA-Zellen einsetze. Der Kiel hat an der Unterseite einen Patch erhalten, der die Befestigungsschraube abdeckt. Es werden selbstgebaute Segel verwendet. Der Rumpf wurde mit einen selbsterstellten Aufkleber Set dekoriert. Boot 2 Das zweite Boot, das weitgehend indentisch zum gelben Boot aufgebaut und wird Backup für dieses eingesetzt oder als Leihboot.</description>
+Der Empfänger wurde ausgetauscht, da ich eine SkyFly verwende. Die Original-Batterie-Halterung wird nicht eingesetzt, da ich einen Akku-Pack mir vier AAA-Zellen einsetze. Der Kiel hat an der Unterseite einen Patch erhalten, der die Befestigungsschraube abdeckt. Es werden selbstgebaute Segel verwendet. Der Rumpf wurde mit einen selbsterstellten Aufkleber Set dekoriert. Boot 2 Das zweite Boot, das weitgehend indentisch zum gelben Boot aufgebaut und wird als Backup für dieses eingesetzt oder als Leihboot.</description>
     </item>
     <item>
       <title>Selbstgebaute Segelsätze</title>
@@ -22,6 +22,15 @@ Der Empfänger wurde ausgetauscht, da ich eine SkyFly verwende. Die Original-Bat
       <guid>https://ulzburger.github.io/rcsailing/dragonforce65/sails/sails/</guid>
       <description>Nach dem Regelwerk ist es zulässig Segel zu verwenden, die nicht vom Hersteller stammen. Ich habe mir für drei Segelsätze entsprechende Pläne erstellt und fahre diese auf meinem Zweitboot. Ich stelle hier die Pläne zu den Segeln zur Verfügung. Sowohl als SVG-Dateien, die ich mit Inkscape erstellt habe, als auch als PDF-Dateien.
 Neben dem Standard Rigg, als A Rigg bezeichnet, fahren ich das etwas größere A+ Rigg und das etwas kleinere B Rigg.</description>
+    </item>
+    <item>
+      <title>Lineal für die Unterkante des Großsegels</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/lineal/lineal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/lineal/lineal/</guid>
+      <description>Beim Zuschneiden der Segelsätze benötigt man zunächst nur ein gerades Lineal, vorzugweise aus Metall. Da aber die Unterkante des Großsegels als einzge Kante des Segesatze nicht gerade verläuft, habe ich mir hierzu eine Lineal gedruckt.
+Die Vorlage dazu ist hier zu finden: https://dfracingdotworld.files.wordpress.com/2021/06/df65-mainsail-foot-templates.pdf
+Lineal Dokumente Downloads DF65 A&amp;#43;Lineal.stl (20 KB) DF65 ABC Lineal.stl (53 KB) </description>
     </item>
     <item>
       <title>Aufkleber Set für den Rumpf</title>
@@ -55,6 +64,24 @@ Feinjustierung des Ruderausschlags Um kleine Ruderausschlage feinfühliger anste
       <description>Mit dem Erscheinen der Version 7 der DF65 bietet der Hersteller eine Erweiterug des Bootsständers an. Diese Teile sind in ähnlicher Form seit einiger Zeit auch schon als 3D-Druck-Vorlagen verfügbar. Mir haben diese Teile aber an einem Punkt nicht so recht gefallen, daher zeige ich hier meine Entwürfe.
 Erste Version Mein erster Entwurf war noch sehr einfach. Es war mein erstes 3D-Projekt.
 Dieses Bild zeigt den für mich entscheidenden Unterschied: Das Bauteil steht dem Kielballast nicht im Weg.</description>
+    </item>
+    <item>
+      <title>Ventilator zum Entlüfen des Rumpfes</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/ventilator/ventilator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/ventilator/ventilator/</guid>
+      <description>An windigen Tagen ist es nie ganz zu vermeiden, dass ein wenig Feuchtigkeit in den Rumpf gelangt. Es befreundeter Segler hat mich auf einen Ventilator hingewiesen, den man mit wenig Aufwand selbst bauen kann, sofern man Zugang zu einem 3D-Drucker hat. Den 5V-Lüfter betreibe ich mit dem Enpänger-Akku.
+Die 3D-Vorlage dazu ist hier zu finden: https://www.thingiverse.com/thing:1338838
+Die Lüfter sind u.a. bei Amazon erhältlich: https://www.amazon.de/Usongshine-L%C3%BCfter-Drucker-K%C3%BChler-Druckerzubeh%C3%B6r/dp/B07L69J9S1
+Ventilator Dokumente Downloads DF_Vent_Bottom_V3.1.stl (5 MB) DF_Vent_Top_V3.</description>
+    </item>
+    <item>
+      <title>Flyer für die Gäste am Teich</title>
+      <link>https://ulzburger.github.io/rcsailing/dragonforce65/flyer/flyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/flyer/flyer/</guid>
+      <description>Da wir immer wieder während des Segelns am Teich in Uetersen von den Spaziergängern auf unsere Aktivitäten angesprochen werden, habe ich einen Flyer erstellt. Den habe ich im gefalteten Zustand in aus reichender Anzahl stets im Rucksack. Er soll die am häufigsten gestellten Fragen beantworten und hoffentlich auch mal einen ernsthafen Interessenten zum Mitmachen animieren.
+Flyer Dokumente Downloads DragonForce65.pdf (119 KB) </description>
     </item>
   </channel>
 </rss>
