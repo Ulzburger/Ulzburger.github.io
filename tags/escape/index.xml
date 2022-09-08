@@ -10,18 +10,15 @@
       <title>Baupläne</title>
       <link>https://ulzburger.github.io/kiteplans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ulzburger.github.io/kiteplans/</guid>
-      <description>Stammbaum Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kite hat igendeinen Vorgänger, ich nenne sie Paten. Diese Paten habe ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge als Stammbaum meiner Entwürfe.
+      <description>Stammbaum Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kite hat irgendeinen Vorgänger, ich nenne sie Paten. Diese Paten habe ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge als Stammbaum meiner Entwürfe.
 Hinweis: Bei den nachfolgenden Grafiken führt ein Klick auf die Abbildung zur 3D-Ansicht.
-End Of Line / EOL</description>
+End Of Line / EOL Der EOL wurde aus Vortex, Maestro II und Magnet abgeleitet, die zu dem Zeitpunkt von mir gebaut und geflogen wurden.</description>
     </item>
-    
     <item>
       <title>Escape - STD, LW</title>
       <link>https://ulzburger.github.io/kiteplans/kiteplan_escape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ulzburger.github.io/kiteplans/kiteplan_escape/</guid>
       <description>Der erste Entwurf des Escape ist kurz nach dem EOL entstanden, wurde dann aber vom Return-Projekt unterbrochen. Im Sommer 2019 und 2020 habe ich mich wieder mit ihm beschäftigt. Hier ist nun die finale 2020er Version.
 Jahr der Veröffentlichung 2020
@@ -31,6 +28,5 @@ Spannweite: ca. 235 cm
 Details zum Standard (STD) Kiel: Aurel Agil 400, 850 mm + FSD-Nocke mit Messinggewicht
 Obere Spreize: 5 mm Carbon, 495 mm</description>
     </item>
-    
   </channel>
 </rss>

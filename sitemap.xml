@@ -1,83 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ulzburger.github.io/kiteplan_generator/manual/1_introduction/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplan_generator/manual/2_desciption/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplan_generator/manual/3_3d_model/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplan_generator/manual/4_references/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/news/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/kiteplan_endofline/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/1_launches/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/kiteplan_endofline_mini/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/2_landings/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/kiteplan_return/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/kiteplan_return_mini/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/kiteplan_return_maxi/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplan_generator/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/3_recoveries/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/kiteplan_shift/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/4_axel_based/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/kiteplans/kiteplan_escape/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/5_fade_based/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/6_backflip_based/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/team_flying/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/7_yoyo_based/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/8_combinations/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/contact/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tricks/9_others/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/alternate/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/bauplangenerator/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/categories/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/control/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/end-of-line/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/eol/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/escape/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/poc/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/return/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/shift/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://ulzburger.github.io/tags/teamflug/</loc>
   </url>
 </urlset>

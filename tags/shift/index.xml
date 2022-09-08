@@ -10,18 +10,15 @@
       <title>Baupläne</title>
       <link>https://ulzburger.github.io/kiteplans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ulzburger.github.io/kiteplans/</guid>
-      <description>Stammbaum Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kite hat igendeinen Vorgänger, ich nenne sie Paten. Diese Paten habe ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge als Stammbaum meiner Entwürfe.
+      <description>Stammbaum Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kite hat irgendeinen Vorgänger, ich nenne sie Paten. Diese Paten habe ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge als Stammbaum meiner Entwürfe.
 Hinweis: Bei den nachfolgenden Grafiken führt ein Klick auf die Abbildung zur 3D-Ansicht.
-End Of Line / EOL</description>
+End Of Line / EOL Der EOL wurde aus Vortex, Maestro II und Magnet abgeleitet, die zu dem Zeitpunkt von mir gebaut und geflogen wurden.</description>
     </item>
-    
     <item>
       <title>Shift - STD</title>
       <link>https://ulzburger.github.io/kiteplans/kiteplan_shift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ulzburger.github.io/kiteplans/kiteplan_shift/</guid>
       <description>Um die Dokumentation zu vervollständigen, hier nun die Infos zum Shift, die ich bisher noch nicht veröffentlicht habe. Eine Besonderheit ist hier die Lösung des Kiels im Kreuzbereich. Das würde ich heute nicht mehr so bauen.
 Paten Nirvana I, Aventador
@@ -30,6 +27,5 @@ Spannweite: ca. 235 cm
 Details zum Standard (STD) Kiel: SkyShark P200, ca. 869 mm + FSD-Nocke mit Messinggewicht
 Obere Spreize: 5 mm Carbon, 500 mm</description>
     </item>
-    
   </channel>
 </rss>
