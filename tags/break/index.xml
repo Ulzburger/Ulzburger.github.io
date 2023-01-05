@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Break on Ulzburger Kites</title>
+    <link>https://ulzburger.github.io/tags/break/</link>
+    <description>Recent content in Break on Ulzburger Kites</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://ulzburger.github.io/tags/break/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baupläne</title>
+      <link>https://ulzburger.github.io/kiteplans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/kiteplans/</guid>
+      <description>Stammbaum Ich habe inzwischen eine Reihe von fertigen Plänen und einige noch in Arbeit befindliche Projekte. Häufig werde ich zu den Zusammenhängen dieser Entwürfe gefragt. Jeder Kite hat irgendeinen Vorgänger, ich nenne sie Paten. Diese Paten habe ich auf den Bauplanseiten jeweils angegeben. Nachfolgend eine Abbildung mit einer Übersicht dieser Zusammenhänge als Stammbaum meiner Entwürfe.
+Hinweis: Bei den nachfolgenden Grafiken führt ein Klick auf die Abbildung zur 3D-Ansicht.
+End Of Line / EOL Der EOL wurde aus Vortex, Maestro II und Magnet abgeleitet, die zu dem Zeitpunkt von mir gebaut und geflogen wurden.</description>
+    </item>
+    <item>
+      <title>Break - STD, LW</title>
+      <link>https://ulzburger.github.io/kiteplans/kiteplan_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/kiteplans/kiteplan_break/</guid>
+      <description>Nach einem Jahr Pause habe ich endlich eine schon länger existierende Idee umgesetzt und den Plan zu einem etwas kleineren Escape gezeichnet. Passend zu dieser Pause haben ich diesen Kite dann Break genannt. Ende 2022 war das Projekt dann soweit fortgeschritten, dass eine Veröffentlichung zu 2023 gewagt werden konnte. Der Plan ist nun hier verfügbar. Es wird vermutlich noch eine optimierte Waage zu veröffentlicht. Ein Testexemplar ist noch unterwegs bei Stephan alias SWP, der bereits die Waage des Escape überarbeitet hatte.</description>
+    </item>
+  </channel>
+</rss>
