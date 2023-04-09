@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diverses on Ulzburger Kites</title>
+    <link>https://ulzburger.github.io/miscellaneous/</link>
+    <description>Recent content in Diverses on Ulzburger Kites</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://ulzburger.github.io/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>T-Shirts</title>
+      <link>https://ulzburger.github.io/miscellaneous/shirts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/miscellaneous/shirts/</guid>
+      <description>Die zu den Entwürfen gehörigen Designs liegen als SVG-Dateien vor und dürfen frei verwendet werden.
+DualLineStuntKite.svg
+StuntKiting.svg
+UlzburgerLogo.svg</description>
+    </item>
+    <item>
+      <title>Lenkschlaufen</title>
+      <link>https://ulzburger.github.io/miscellaneous/straps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/miscellaneous/straps/</guid>
+      <description>Hier eine Bildfolge, die zeigt wie ich meine Schlaufen baue. Die leuchtend gelben Bänder habe ich aus dem Baumarkt.
+Schritt 1: Zuschneiden der Bänder für die Schalufen.
+Schritt 2: Zuschneiden der Bänder für die &amp;ldquo;Nasen&amp;rdquo;.
+Schritt 3: Nähen der Schlaufen und der &amp;ldquo;Nasen&amp;rdquo;.
+Schritt 4: Umwickeln der Schlaufenköpfe mit selbstklebenden Dacron (Nummerntuch).
+Schritt 5: Aufnähen der &amp;ldquo;Nasen&amp;rdquo; an die Schalufen.
+Schritt 6: Anknoten der Schnüre.
+Schritt 7: Die fertigen Schlaufen auf den HQ-Windern montiert.</description>
+    </item>
+    <item>
+      <title>Nase</title>
+      <link>https://ulzburger.github.io/miscellaneous/nose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/miscellaneous/nose/</guid>
+      <description>Hier eine Bildfolge, wie ich die Nase an meinen Kites baue:
+Schritt 1-4:
+Mit Klebebändern vorbereitetes Stück 10cm x 10cm Plane mittig positionieren. Plane mittig falten und festkleben. Metall-Lineal anlegen. Überstand abschneiden. Schritt 5-8:
+2cm breites Klebeband als Schablone aufkleben. Nähte des Mitteltunnels entlang der Schablone nähen. Nähte entlang der Außenkante nähen. Die mittleren Nähte werden in einem Stück genäht. </description>
+    </item>
+    <item>
+      <title>Flügelspitze</title>
+      <link>https://ulzburger.github.io/miscellaneous/wingtip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ulzburger.github.io/miscellaneous/wingtip/</guid>
+      <description>Hier ein Bild, das den Aufbau der Flügelspitze zeigt:
+Das Dacron wird am Ende (im Bild rechts), 6 mm umgeschlagen und mit doppleseitigem Klebeband fxiert. Das Icarex wurde mit selbstklebendem Dacron (Nummerntuch) verstärkt. Nachdem die Schleppkante auf das Icarexaufgebracht worden ist, wird die Schlaufe aufgenäht. Sie hat ca. 6mm Überstand Zuvor wurde sie Spannschnur in die Schleppkante eingezogen. Damit diese nicht beim Vernähen der Stabtasche festgenäht wird, wurde die Icarex-Flügelspitze leicht nach oben versetzt.</description>
+    </item>
+  </channel>
+</rss>

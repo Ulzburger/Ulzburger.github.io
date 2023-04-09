@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg322"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="UlzburgerKites.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview324"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="203.84608"
+     inkscape:cy="561.80635"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs319">
+    <filter
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       id="filter1737-0-9"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend1739-8-4"
+         in2="BackgroundImage"
+         mode="darken"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.0759px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.376899"
+       x="194.16237"
+       y="95.680367"
+       id="text2157" />
+    <flowRoot
+       transform="matrix(1.4245032,0,0,1.4245032,9.2546755,-150.34214)"
+       xml:space="preserve"
+       id="flowRoot2233"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion2229"><rect
+           id="rect2227"
+           width="755.90552"
+           height="283.46457"
+           x="-56.692913"
+           y="37.795288" /></flowRegion><flowPara
+         id="flowPara2231" /></flowRoot>
+    <g
+       id="g1197"
+       transform="matrix(4.8599939,0,0,4.8599939,-1134.2084,-259.68433)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1.4245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect2305-8"
+         width="35.612583"
+         height="35.612587"
+         x="237.17517"
+         y="66.182358"
+         ry="7.1225195" />
+      <g
+         transform="matrix(0.37334471,0,0,0.37334471,207.14444,58.001506)"
+         id="g2309-1"
+         style="fill:#1a1a1a">
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccc"
+           transform="matrix(0.69414561,0,0,0.69414561,83.819479,22.924903)"
+           inkscape:export-ydpi="92.594505"
+           inkscape:export-xdpi="92.594505"
+           inkscape:export-filename="C:\Users\U220055\Desktop\Logo.png"
+           inkscape:connector-curvature="0"
+           id="path2307-3"
+           d="m 111.75804,73.556377 c 3.05015,-3.050188 3.05015,-7.961159 0,-11.011287 L 67.712297,18.499338 c -3.05017,-3.050128 -7.961144,-3.050128 -11.011291,0 l -6.091372,6.097538 -13.763267,-13.773931 -2.168237,2.170752 13.764265,13.764257 41.29277,41.292778 -41.292774,41.292778 -13.764268,13.76426 2.168244,2.1691 13.763267,-13.76326 6.091365,6.08845 c 3.050154,3.05019 7.961419,3.0499 11.011574,-1.7e-4 z M 42.936745,103.83786 51.195353,84.567962 34.678123,68.050732 51.195353,51.533501 42.936738,32.263599 12.65555,62.544792 c -3.0501624,3.050127 -3.0504421,7.961397 -2.95e-4,11.011585 z"
+           style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.389312;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1737-0-9)" />
+      </g>
+    </g>
+  </g>
+</svg>
