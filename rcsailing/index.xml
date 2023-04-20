@@ -1,59 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Start on Ulzburger Boats</title>
+    <title>Aktuelles on Ulzburger Kites</title>
     <link>https://ulzburger.github.io/rcsailing/</link>
-    <description>Recent content in Start on Ulzburger Boats</description>
+    <description>Recent content in Aktuelles on Ulzburger Kites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language><atom:link href="https://ulzburger.github.io/rcsailing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aktuelles</title>
-      <link>https://ulzburger.github.io/rcsailing/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ulzburger.github.io/rcsailing/news/</guid>
-      <description>2022, September Ein paar Kapitel und Inhalte sind dazugekommen:
-Tabelle zum Trimmen des DF65-Riggs Aktualisierung des Aufkleber Sets für die DF65. Lineal für den DF65-Segelzuschnitt DF65-Info-Flyer Ventilator zum Entlüften des DF65-Rumpfes Meine Bullseye ist fertig geworden. Ein Kapitel mit den Erfahrungen zum Baukasten ist hinzugefügt worden.
-2022, Januar Für die Bootständer wurde die Erweiterung überarbeitet, die es einem erlaubt das Boot liegend abzustellen.
-2022, Januar - Neujahr Besuch in Flensburg, Fahrensodde.</description>
-    </item>
-    <item>
-      <title>DragonForce 65</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonforce65/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ulzburger.github.io/rcsailing/dragonforce65/</guid>
-      <description>Allgemeine Infos Die DragonForce 65 (DF65) ist ein 65cm langes Modellsegelboot, dass den Regeln der RG65-Klasse entspricht. Ausnahme ist das A+ Rigg, dass für ein RG65-Boot eine zu große Fläche besitzt. Die DF65-Boote sind allerdings den üblichen RG65-Booten unterlegen. RG65-Boote sind leichter und fahren in der Regel ein Swing-Rig, was ihnen in der Summe einen nicht unerheblichen Vorteil verschafft. Ein wettbewerbsfähiges RG65-Boot baut man sich entweder selbst oder man kauft es bei Hobbyisten, die es in Kleinserien erstellen.</description>
-    </item>
-    <item>
-      <title>DragonFlite 95</title>
-      <link>https://ulzburger.github.io/rcsailing/dragonflite95/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ulzburger.github.io/rcsailing/dragonflite95/</guid>
-      <description>Mein DF95-Boot habe in eine Weile im Baukastenzustand gesegelt, schließlich habe ich das Boot mit einem Aufkleberset dekoriert. Außerdem hat es neues selbstgebautes Segelset bekommen.
-Links Die aktuellen Regeln: DF65 Rules Tuning Tips: Tuning Guide Dekoration: Start1969 </description>
-    </item>
-    <item>
-      <title>Bullseye</title>
-      <link>https://ulzburger.github.io/rcsailing/bullseye/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ulzburger.github.io/rcsailing/bullseye/</guid>
-      <description>Das Modell Im RC-Network-Forum hatte ich den interessanten Thread zur Herreshoff 12 1/2 ft verfolgt. Dort wurde zunächst der Eigenbau einer Herreshoff 12 1/2 in einer kleinen Serie unter Modellbaufreunden präsentiert. Später ist aus diesem Projekt ein Baukastenboot entstanden, das als &amp;ldquo;Bullseye&amp;rdquo; von AeroNaut hergestellt und vertrieben wird. Die &amp;ldquo;Bullseye&amp;rdquo; ist ein Boot, dass sich mit der &amp;ldquo;12 1/2&amp;rdquo; die Rumpfform teilt, ansonsten aber eine eigenständige Weiterentwicklung darstellt. Das Original wird heute noch in GfK gebaut.</description>
-    </item>
-    <item>
-      <title>Schneideplotter</title>
-      <link>https://ulzburger.github.io/rcsailing/plottingsvg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ulzburger.github.io/rcsailing/plottingsvg/</guid>
-      <description>Was ist ein Schneideplotter? Wikipedia: &amp;ldquo;Der Schneideplotter ist ein Plotter, bei dem ein Messer statt der Stifte eingesetzt wird. Dabei werden die Konturen der Vektorgrafiken in eine Beschriftungsfolie geschnitten, ohne das Trägerpapier (Plotterpapier) zu beschädigen.&amp;rdquo;
-Der von mir verwendete Plotter: Silhouette Cameo
-Diesen Schneideplotter setze ich hauptsächlich zum Schneiden von Schriftzügen und Logos auf Folie ein. Bei der DF65 sind das dann die Segelnummern. Ferner kann man damit auch gut Nummerntuch schneiden, das ist ein selbstklebendes Dacrontuch, welches die Segelmacher für Segelnummern verwenden.</description>
-    </item>
-    <item>
-      <title>Kontakt</title>
-      <link>https://ulzburger.github.io/rcsailing/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ulzburger.github.io/rcsailing/contact/</guid>
-      <description>Birger Garbe
-E-Mail: birger.garbe@gmail.com</description>
-    </item>
   </channel>
 </rss>
